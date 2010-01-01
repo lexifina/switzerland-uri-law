@@ -1,0 +1,5 @@
+# Artikel 18i Prüfung und Bereinigung der Wahlvorschläge
+1 Die Gemeindekanzlei prüft, ob die Wahlvorschläge den gesetzlichen Anforderungen entsprechen und ob die Unterschriften gültig sind.
+2 Wahlvorschläge, die verspätet eingereicht worden sind oder nicht die vorgeschriebene Anzahl gültiger Unterschriften aufweisen, erklärt die Gemeindekanzlei für ungültig.
+3 Die Gemeindekanzlei streicht unzulässige Wiederholungen des gleichen Kandidatennamens und die Namen nicht wählbarer Kandidatinnen oder Kandidaten. Sie setzt der Vertretung des Wahlvorschlages eine Frist bis zum fünftletzten Dienstag vor dem Wahlsonntag an, innert der sie Ersatzvorschläge für amtlich gestrichene vorgeschlagene Personen einreichen, die Bezeichnung von vorgeschlagenen Personen verbessern oder die Bezeichnung des Wahlvorschlages zum Zweck einer deutlichen Unterscheidung von anderen Vorschlägen ändern kann.
+4 Wird ein Mangel nicht fristgerecht behoben, ist der Wahlvorschlag ungültig. Trifft der Mangel nur eine vorgeschlagene Person, so wird lediglich deren Name gestrichen.
