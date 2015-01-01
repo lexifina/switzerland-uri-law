@@ -1,0 +1,5 @@
+# Artikel 41a Verbesserung und Wiederherstellung von Lebensräumen
+1 Bei Verbauungen und Korrektionen von Fliessgewässern und stehenden Gewässern ist der natürliche Verlauf des Gewässers möglichst wiederherzustellen. Gewässer und Ufer sind so zu gestalten, dass sie einer vielfältigen Tier- und Pflanzenwelt als Lebens-, Fortpflanzungs- und Aufwuchsraum dienen können.
+2 Der Regierungsrat ergreift nach Möglichkeit Massnahmen zur Verbesserung der Lebensbedingungen der Wassertiere sowie zur lokalen Wiederherstellung zerstörter Lebensräume. Über untergeordnete Massnahmen kann die zuständige Amtsstelle im Rahmen der bewilligten Kredite bestimmen (Artikel 7 BG).
+3 Der Regierungsrat sorgt dafür, dass bei bestehenden Anlagen Massnahmen zur Verbesserung der Lebensbedingungen für Wassertiere, zur Gewährleistung der freien Fischwanderung, der natürlichen Fortpflanzung sowie zum Schutz der Fische und Krebse vor baulichen Anlagen und Maschinen getroffen werden, soweit sie wirtschaftlich tragbar sind (Artikel 10 BG).
+4 Die zuständige Amtsstelle kann im Rahmen der bewilligten Kredite See- und Bachreinigungen zur Verbesserung der Lebensräume von Wasserlebewesen veranlassen.
