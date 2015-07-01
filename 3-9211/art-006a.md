@@ -1,0 +1,5 @@
+# Artikel 6a
+1 Die für den Strafvollzug zuständige Direktion kann eine Person vor oder gleichzeitig mit der Einleitung eines nachträglichen richterlichen Verfahrens vorsorglich in vollzugsrechtliche Sicherheitshaft nehmen, um das Rückversetzungsverfahren bzw. den nachträglichen richterlichen Entscheid sicherzustellen. Vorausgesetzt ist, dass die Sicherheitshaft dringlich ist und dass der Schutz der Öffentlichkeit nicht anders gewährleistet werden kann.
+2 Als nachträgliche richterliche Verfahren im Sinne von Absatz 1 gelten die Verfahren gemäss Artikel 62a Absatz 3, Artikel 62c Absatz 4 und 6, Artikel 63b Absatz 3, Artikel 64a Absatz 3 oder Artikel 95 Absatz 5 des Schweizerischen Strafgesetzbuches (SR 311.0).
+3 Die zuständige Direktion beantragt dem Zwangsmassnahmengericht unverzüglich, spätestens aber innert 48 Stunden, die angeordnete Sicherheitshaft zu genehmigen.
+4 Für das Verfahren und den Vollzug gelten sinngemäss die Vorschriften der Schweizerischen Strafprozessordnung (SR 312.0) über die Sicherheitshaft.
