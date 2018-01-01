@@ -1,0 +1,9 @@
+# Artikel 5a Integrationskriterien
+1 Eine erfolgreiche Integration zeigt sich insbesondere:
+a) im Beachten der öffentlichen Sicherheit und Ordnung
+b) in der Respektierung der Werte der Bundesverfassung
+c) in der Fähigkeit, sich im Alltag in Wort und Schrift in der deutschen Sprache zu verständigen
+d) in der Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung und
+e) in der Förderung und Unterstützung der Integration der Ehefrau oder des Ehemanns, der eingetragenen Partnerin oder des eingetragenen Partners oder der minderjährigen Kinder, über welche die elterliche Sorge ausgeübt wird
+2 Der Situation von Personen, welche die Integrationskriterien von Absatz 1 Buchstaben c und d aufgrund einer Behinderung oder Krankheit oder anderen gewichtigen persönlichen Umständen nicht oder nur unter erschwerten Bedingungen erfüllen können, ist angemessen Rechnung zu tragen.
+3 Der Landrat regelt durch Verordnung die Voraussetzungen für die Erteilung des Kantons- und Gemeindebürgerrechts.
