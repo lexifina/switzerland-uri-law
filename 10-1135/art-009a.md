@@ -1,0 +1,2 @@
+# Artikel 9a Massnahmen zum Nachteilsausgleich: Grundsatz
+1 Schülerinnen und Schüler, die aufgrund einer Behinderung im Sinne von Artikel 2 des Behindertengleichstellungsgesetzes (SR 151.3) bei Leistungserhebungen benachteiligt sind, haben Anspruch darauf, dass die äusseren Bedingungen oder die Form der Leistungserhebung so verändert werden, dass der behinderungsbedingte Nachteil so gut wie möglich ausgeglichen wird, ohne dabei die Lernziele anzupassen.
