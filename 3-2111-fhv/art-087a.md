@@ -1,0 +1,2 @@
+# Artikel 87a Mitwirkungspflicht
+1 Wer der Aufsicht durch die Finanzkontrolle untersteht, unterstützt sie bei der Durchführung ihrer Aufgaben. Insbesondere legt die zu prüfende Stelle, ungeachtet von Geheimhaltungspflichten, auf Verlangen die notwendigen Unterlagen vor und erteilt die erforderlichen Auskünfte.
