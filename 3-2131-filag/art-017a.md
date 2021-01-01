@@ -1,0 +1,4 @@
+# Artikel 17a Bevölkerungslastenausgleich: Lasten der Demografie Alter
+1 Der Demografielastenausgleichstarif beträgt 9'800 Franken. Er wird jährlich dem Landesindex der Konsumentenpreise angepasst, erstmals für das Jahr 2022.
+2 Massgebend ist die Anzahl der 80-Jährigen und über 80-Jährigen der ständigen Wohnbevölkerung einer Gemeinde gemäss dem Bundesamt für Statistik.
+3 Gemeinden, deren Anzahl 80-jährigen und über 80-jährigen Bevölkerung bezogen auf ihre Einwohnerzahl im Verhältnis zu den anderen Gemeinden über dem kantonalen Mittel liegt, erhalten einen Ausgleich. Die maximal auszugleichenden Lasten der Demografie Alter ergeben sich aus der Anzahl der 80-jährigen und der über 80-jährigen Personen, die über dem gewichteten kantonalen Mittel liegen, multipliziert mit dem Demografielastenausgleichstarif gemäss Absatz 1.
