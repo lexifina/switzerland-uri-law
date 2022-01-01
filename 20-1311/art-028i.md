@@ -1,0 +1,2 @@
+# Artikel 28i Sozialversicherungen
+1 Die Arbeitnehmenden sind grundsätzlich den Schweizer Sozialversicherungen unterstellt und beitragspflichtig. Die geschuldeten Sozialversicherungsbeiträge sind von der Arbeitgeberin oder vom Arbeitgeber zu entrichten. Die Unterstellung und die Frage, wer als Arbeitgeberin oder Arbeitgeber gilt, werden vom zuständigen Sozialversicherungsträger im Einzelfall geprüft.

@@ -1,0 +1,3 @@
+# Artikel 28d Wöchentliche Freizeit
+1 Den Arbeitnehmenden stehen wöchentlich ein ganzer Tag (24 Stunden) und ein halber Tag à acht Stunden als Freizeit zu. Diese Freizeit muss jede Woche gewährt werden und kann nicht verschoben und zusammengelegt werden.
+2 Während der wöchentlichen Freizeit darf die Arbeitnehmerin oder der Arbeitnehmer das Haus verlassen und steht der zu betreuenden Person nicht zur Verfügung. Die Überwachung der zu betreuenden Person oder die Hilfestellung bei Bedarf muss anderweitig sichergestellt werden (z.B. telefonische Rufbereitschaft durch andere Personen, Anwesenheit von Spitex oder Familienangehörigen usw.).

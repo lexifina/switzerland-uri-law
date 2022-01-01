@@ -1,0 +1,3 @@
+# Artikel 28c Präsenzzeit
+1 Die Zeit, während der sich die Arbeitnehmerin oder der Arbeitnehmer im Haushalt oder in den Räumen der zu betreuenden Person aufhält, ohne dass ein aktiver Arbeitseinsatz erfolgt, während der sie oder er sich aber der zu betreuenden Person zur Verfügung halten muss, gilt als Präsenzzeit. Dasselbe gilt für die Rufbereitschaft, während der ausserhalb des Hauses die telefonische Erreichbarkeit bei Bedarf jederzeit gewährleistet sein muss.
+2 Bei intensiven Betreuungssituationen muss regelmässig eine Überprüfung der Situation für die Arbeitnehmenden stattfinden. Nach entsprechender Interessensabwägung hat allenfalls eine Anpassung der Betreuungsorganisation zu erfolgen.
