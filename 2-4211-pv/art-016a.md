@@ -1,0 +1,3 @@
+# Artikel 16a Kündigung beim unbefristeten Arbeitsverhältnis: Missbräuchliche Kündigung
+1 Kündigt der Kanton ohne sachlich zureichenden Grund und wird die oder der Angestellte nicht wiedereingestellt, richtet der Kanton der entlassenen Person eine Entschädigung aus. Deren Höhe bemisst sich nach den Bestimmungen des Obligationenrechts (SR 220) über die missbräuchliche Kündigung. Die Ausrichtung einer Abgangsentschädigung bleibt vorbehalten.
+2 Kündigt die angestellte Person missbräuchlich, hat sie dem Kanton eine Entschädigung nach den Bestimmungen des Obligationenrechts (SR 220) über die missbräuchliche Kündigung zu bezahlen.

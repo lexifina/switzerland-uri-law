@@ -1,0 +1,5 @@
+# Artikel 73a Globalbudget: Grundsatz
+1 Die Kostenlenkung im Personalbereich wird mittels Globalbudget-System geführt.
+2 Das Globalbudget-System gilt für sämtliche kantonalen Angestellten, für die der Landrat die Besoldung beschliesst und die der Organisationshoheit des Regierungsrats unterstehen.
+3 Der Regierungsrat kann im Rahmen des bewilligten Globalbudgets eine begrenzte Anzahl angepasster und befristeter Arbeits- und Praktikumsplätze zur Verfügung stellen für Personen ausserhalb der Kantonalen Verwaltung, die aus gesundheitlichen Gründen in ihrer Leistungsfähigkeit eingeschränkt sind oder für die die Vermittlung aus arbeitsmarktlichen Gründen erschwert ist. Er ordnet das Nähere in einem Reglement.
+4 Der Regierungsrat ist ermächtigt, von Artikel 21 der Verordnung über den Finanzhaushalt des Kantons Uri (RB 3.2111) betreffend Jährlichkeit des Budgets sowie Spezifikation und Vergleichbarkeit nach Verwaltungseinheiten sowie von Artikel 23 betreffend Budgetierung bei Verwaltungseinheiten mit Leistungsauftrag und Globalbudget abzuweichen.
