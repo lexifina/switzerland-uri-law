@@ -1,0 +1,2 @@
+# Artikel 58f Mitteilung an andere Behörden
+1 Die Strafbehörden dürfen andere Behörden über hängige oder abgeschlossene Strafverfahren informieren, soweit diese zur Erfüllung einer gesetzlichen Aufgabe auf die Information angewiesen sind, das öffentliche Interesse an der Information gegenüber den Persönlichkeitsrechten der Parteien überwiegt und dieser Mitteilung kein überwiegendes privates Interesse entgegensteht.
