@@ -1,0 +1,3 @@
+# Artikel 46a Austausch von Informationen und Daten mit Schengen-Staaten
+1 Der direkte Informationsaustausch auf Ersuchen oder ohne Ersuchen mit Polizei- und Strafverfolgungsbehörden anderer Staaten, die mit der Schweiz über eines der Schengen-Assoziierungsabkommen verbunden sind (Schengen-Staaten), richtet sich nach dem Schengen-Informationsaustausch-Gesetz (SR 362.2)) und Artikel 355c des Schweizerischen Strafgesetzbuchs (SR 311.0).
+2 Die Kantonspolizei nimmt die Aufgaben der kantonalen Anlaufstelle wahr. Sie tritt in dringlichen Fällen für andere Strafverfolgungsbehörden auf oder holt stellvertretend für die ersuchte Behörde die erforderliche Zustimmung einer anderen kantonalen Behörde ein.

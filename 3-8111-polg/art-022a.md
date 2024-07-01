@@ -1,0 +1,4 @@
+# Artikel 22a Wegweisung, Fernhaltung und Kontaktverbot: Dauer und Verfahren
+1 Massnahmen bis zu einer Dauer von 48 Stunden können mündlich angeordnet werden. Die betroffene Person kann nachträglich eine schriftliche Verfügung verlangen.
+2 Im Falle wiederholter Missachtung der Massnahme kann die Massnahme längstens für die Dauer von 14 Tagen angeordnet werden. Stellt die gefährdete Person vor Ablauf von 14 Tagen ein Gesuch zur gerichtlichen Anordnung von Schutzmassnahmen, kann die Massnahme bis zum Entscheid des Gerichts, maximal aber um weitere 14 Tage verlängert werden.
+3 Gegen Massnahmen gemäss Absatz 2 kann die betroffene Person beim Obergericht Beschwerde einreichen. Der Beschwerde kommt aufschiebende Wirkung nur zu, wenn die Beschwerdeinstanz dies anordnet. Das Verfahren richtet sich nach der Schweizerischen Strafprozessordnung (SR 312.0).

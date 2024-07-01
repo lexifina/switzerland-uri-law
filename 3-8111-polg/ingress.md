@@ -1,0 +1,6 @@
+# Polizeigesetz
+(PolG)
+Vom 30.11.2008
+Das Volk des Kantons Uri,
+gestützt auf Artikel 90 Absatz 1 der Kantonsverfassung (RB 1.1101),
+beschliesst:
