@@ -1,0 +1,5 @@
+# Artikel 9c Meldeverfahren
+1 Die Versicherer melden der kantonalen Durchführungsstelle die Schuldnerinnen und Schuldner, die sie wegen ausstehender Prämien und Kostenbeteiligungen der obligatorischen Krankenpflegeversicherung betreiben. Die kantonale Durchführungsstelle informiert die Wohnsitzgemeinde der Schuldnerin oder des Schuldners über die Meldung.
+2 Die Wohnsitzgemeinde hat nach Anhebung der Betreibung 60 Tage Zeit, zu entscheiden, welche Forderungen aus der obligatorischen Krankenpflegeversicherung sie übernimmt. Die Versicherer setzen die Betreibung während dieser Zeit nicht fort.
+3 Die kantonale Durchführungsstelle informiert umgehend die Versicherer über die Rückmeldung der Wohnsitzgemeinde nach Absatz 2. Die Versicherer stoppen die Betreibung für die Forderungen, welche die Wohnsitzgemeinde übernimmt.
+4 Der Datenaustausch zwischen der kantonalen Durchführungsstelle und den Versicherern sowie zwischen der kantonalen Durchführungsstelle und den Einwohnergemeinden erfolgt elektronisch und nach einem einheitlichen Standard.
