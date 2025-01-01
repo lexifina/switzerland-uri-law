@@ -1,0 +1,2 @@
+# Artikel 19d Unselbstständige Erwerbstätigkeit: Anteilsmässige Besteuerung
+1 Hatte die steuerpflichtige Person nicht während der gesamten Zeitspanne zwischen Erwerb und Entstehen des Ausübungsrechts der gesperrten Mitarbeiteroptionen (Artikel 19b Absatz 3) steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz, so werden die geldwerten Vorteile daraus anteilsmässig im Verhältnis zwischen der gesamten zu der in der Schweiz verbrachten Zeitspanne besteuert.
