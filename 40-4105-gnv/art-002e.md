@@ -1,0 +1,8 @@
+# Artikel 2e Konkurrenzsituation bei Konzessionsgesuchen zur Nutzung der Wasserkraft oder zur Pumpspeicherung: Konkurrenzentscheid
+1 Der Vorzug gebührt der Bewerberin oder dem Bewerber, deren oder dessen Vorhaben dem öffentlichen Wohl in grösserem Masse dient oder, falls mehrere Vorhaben dem öffentlichen Wohl gleichermassen dienen, der Bewerberin oder dem Bewerber, durch deren oder dessen Vorhaben für die wirtschaftliche Ausnutzung des Gewässers am besten gesorgt ist.
+2 Für die Bestimmung des öffentlichen Wohls sind die Auswirkungen des Vorhabens auf die nachhaltige Entwicklung in den vier Dimensionen Umwelt, Wirtschaft, Gesellschaft und Beteiligung der öffentlichen Hand massgebend.
+3 Die wirtschaftliche Ausnutzung des Gewässers bestimmt sich anhand der Aspekte der Stromproduktion (GWh/a), der bedarfsgerechten Energieerzeugung (Anteil Winter- oder Spitzenstrom in GWh/a), der Energieeffizienz (kWh/m Restwasserstrecke) und der spezifischen Wertschöpfung (Quotient aus Marktpreis in Rp./kWh und Gestehungskosten in Rp./kWh).
+4 Projektänderungen werden bis zum Konkurrenzentscheid nicht berücksichtigt.
+5 Der Regierungsrat entscheidet nach Anhörung der landrätlichen Baukommission darüber, welcher Bewerberin oder welchem Bewerber der Vorzug gegeben wird. Im gleichen Entscheid werden die übrigen Gesuche abgewiesen. Erweisen sich Vorhaben als gleichwertig, so entscheidet der Landrat, wenn er für die Erteilung der Konzession zuständig ist.
+6 Das Konzessionsverfahren wird nach dem Konkurrenzentscheid fortgesetzt, es sei denn, das Verwaltungsgericht habe einer dagegen eingereichten Verwaltungsgerichtsbeschwerde die aufschiebende Wirkung erteilt.
+7 Die Argumente für den Konkurrenzentscheid sind im Konzessionsantrag an den Landrat umfassend darzulegen.
