@@ -1,4 +1,4 @@
-# Gesetz über das Öffentlichkeitsprinzip der kantonalen Verwaltung
+# Gesetz über das Öffentlichkeitsprinzip
 (Öffentlichkeitsgesetz, OeG)
 Vom 26.11.2006
 Das Volk des Kantons Uri,
