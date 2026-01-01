@@ -1,8 +1,8 @@
 ## 1 Geltungsbereich
 ## 2 Gebühren
-## 3 Entschädigungen der Zeugen, Begleitpersonen und Sachverständigen
+## 3 Entschädigungen der Zeuginnen und Zeugen, Begleitpersonen und Sachverständigen
 ## 4 Anwaltskosten
-### 4.1 Allgemeines
+### 4.1 …
 ### 4.2 Grundsätze für die Bemessung der Anwaltsentschädigung
 ### 4.3 Zuschläge
 ### 4.4 Barauslagen
