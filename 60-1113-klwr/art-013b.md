@@ -1,3 +1,3 @@
-# Artikel 13b Biodiversitätsbeiträge: Vernetzungsbeiträge
-1 Vernetzungsbeiträge werden ausgerichtet, wenn die Voraussetzungen von Artikel 61und 62 der Direktzahlungsverordnung (SR 910.13) erfüllt sind.
-2 Die Höhe der Beiträge bemisst sich nach den Ansätzen gemäss Anhang 7 Ziffer 3.2.1 der Direktzahlungsverordnung (SR 910.13).
+# Artikel 13b Beitragsvoraussetzungen
+1 Beiträge werden ausgerichtet, wenn die Voraussetzungen gemäss Direktzahlungsverordnung (SR 910.13) erfüllt sind.
+2 Der Kanton legt die Beitragsansätze pro Massnahme fest. Der Bund übernimmt gemäss Artikel 78 der Direktzahlungsverordnung höchstens 90 Prozent des vom Kanton festgelegten Beitrags, höchstens jedoch die Beträge nach Anhang 7 Ziffer 5a der Direktzahlungsverordnung (SR 910.13).
