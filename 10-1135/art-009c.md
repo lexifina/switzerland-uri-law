@@ -1,2 +1,0 @@
-# Artikel 9c Massnahmen zum Nachteilsausgleich: Anordnung
-1 Der Schulrat ordnet die Massnahmen zum Nachteilsausgleich auf Antrag der Lehrperson oder der Eltern und gestützt auf die Abklärung des Schulpsychologischen Diensts an. Er kann diese Aufgabe der Schulleitung übertragen.

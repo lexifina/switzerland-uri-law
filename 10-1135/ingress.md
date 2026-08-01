@@ -1,6 +1,5 @@
-# Reglement über die Beurteilung und die Promotion an der Volksschule
-(Beurteilungsreglement)
-Vom 15.02.2017
-Der Erziehungsrat,
-gestützt auf Artikel 27 der Schulverordnung (RB 10.1115),
+# Reglement über die Beurteilung im Kindergarten
+Vom 17.06.2026
+Der Erziehungsrat des Kantons Uri,
+gestützt auf Artikel 23 der Volksschulverordnung vom 27. Mai 2026 (RB 10.1115),
 beschliesst:

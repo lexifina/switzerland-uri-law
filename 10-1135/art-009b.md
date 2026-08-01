@@ -1,2 +1,0 @@
-# Artikel 9b Massnahmen zum Nachteilsausgleich: Bedarfsabklärung
-1 Der Schulpsychologische Dienst klärt den Bedarf nach Massnahmen zum Nachteilsausgleich ab. Dazu stellt er die Diagnose der Behinderung oder überprüft entsprechende Diagnosen Dritter, führt mit den Betroffenen ein Gespräch und schlägt konkrete Massnahmen vor.
