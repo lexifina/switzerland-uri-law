@@ -1,6 +1,7 @@
-# Reglement über die Beurteilung und die Promotion an der Kantonalen Mittelschule Uri
-(PRR)
-Vom 30.06.2004
-Der Erziehungsrat und der Mittelschulrat des Kantons Uri,
-gestützt auf Artikel 27 der Schulverordnung (RB 10.1115) und Artikel 17 der Verordnung vom 5. April 2001 über die Kantonale Mittelschule Uri (Mittelschulverordnung, RB 10.2401),
-beschliessen:
+# Reglement über die Promotion an der Kantonalen Mittelschule Uri
+(Promotionsreglement, PromR)
+Vom 01.07.2026
+Der Mittelschulrat des Kantons Uri,
+gestützt auf Artikel 17 der Mittelschulverordnung vom 5. April 2000 (RB 10.2401),
+beschliesst:
+1 Allgemeine Bestimmungen
