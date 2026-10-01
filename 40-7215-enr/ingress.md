@@ -1,6 +1,6 @@
 # Energiereglement
 (EnR)
-Vom 16.12.2008
+Vom 14.04.2026
 Der Regierungsrat des Kantons Uri,
-gestützt auf Artikel 94 Absatz 1 der Kantonsverfassung (RB 1.1101) und Artikel 19 des Energiegesetzes des Kantons Uri vom 18. April 1999 (EnG, RB 40.7211),
+gestützt auf Artikel 31 des Energiegesetzes des Kantons Uri vom 22. Oktober 2023 (EnG, RB 40.7211) und auf Artikel 19 Absatz 4 der Energieverordnung des Kantons Uri vom 12. November 2025 (EnV, BR [[UR|40.7213),
 beschliesst:
