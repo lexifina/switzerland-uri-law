@@ -1,0 +1,30 @@
+# Gewässernutzungsverordnung
+
+GNV · 1 versions, from 2025-01-01 (latest in force: 2025-01-01) · <https://rechtsbuch.ur.ch/app/de/texts_of_law/40.4105>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artikel 1 | [art-001.md](art-001.md) | 0 |  |
+| Artikel 2 | [art-002.md](art-002.md) | 0 |  |
+| Artikel 2a | [art-002a.md](art-002a.md) | 0 |  |
+| Artikel 2abis | [art-002abis.md](art-002abis.md) | 0 |  |
+| Artikel 2b | [art-002b.md](art-002b.md) | 0 |  |
+| Artikel 2c | [art-002c.md](art-002c.md) | 0 |  |
+| Artikel 2d | [art-002d.md](art-002d.md) | 0 |  |
+| Artikel 2e | [art-002e.md](art-002e.md) | 0 |  |
+| Artikel 3 | [art-003.md](art-003.md) | 0 |  |
+| Artikel 4 | [art-004.md](art-004.md) | 0 |  |
+| Artikel 5 | [art-005.md](art-005.md) | 0 |  |
+| Artikel 6 | [art-006.md](art-006.md) | 0 |  |
+| Artikel 7 | [art-007.md](art-007.md) | 0 |  |
+| Artikel 8 | [art-008.md](art-008.md) | 0 |  |
+| Artikel 9 | [art-009.md](art-009.md) | 0 |  |
+| Artikel 9a | [art-009a.md](art-009a.md) | 0 |  |
+| Artikel 9b | [art-009b.md](art-009b.md) | 0 |  |
+| Artikel 9c | [art-009c.md](art-009c.md) | 0 |  |
+| Artikel 10 | [art-010.md](art-010.md) | 0 |  |
+| Artikel 11 | [art-011.md](art-011.md) | 0 |  |
+| Artikel 12 | [art-012.md](art-012.md) | 0 |  |
+| Artikel 13 | [art-013.md](art-013.md) | 0 |  |
+| Gliederung | [gliederung.md](gliederung.md) | 0 |  |
+| Titel und Ingress | [ingress.md](ingress.md) | 0 |  |

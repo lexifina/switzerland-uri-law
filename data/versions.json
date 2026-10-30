@@ -1,0 +1,4617 @@
+{
+ "country": "CH-UR",
+ "acts": [
+  {
+   "slug": "1-1101",
+   "short": "RB 1.1101",
+   "title": "Verfassung des Kantons Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.1101",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 129,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.1101",
+     "sha256": "e3b85ea649ac9847d4cd81c545c32f70b7578857c335266c6e5fc7d53e879ea8"
+    }
+   ]
+  },
+  {
+   "slug": "1-1111-geg",
+   "short": "GEG",
+   "title": "Gemeindegesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.1111",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 81,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.1111/versions/1047",
+     "sha256": "99aef7758810a47bb815f6f714feabcc91ff558deeb569eb12cdda827e13bc95"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 81,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.1111",
+     "sha256": "5b123bf0e65167e9ad43653cc5b3ed5881df52f39f92a1ebbb08a977e5736caa"
+    }
+   ]
+  },
+  {
+   "slug": "1-4121-kantonales-burgerrechtsgesetz-kbug",
+   "short": "Kantonales Bürgerrechtsgesetz, KBüG",
+   "title": "Gesetz über das Kantons- und Gemeindebürgerrecht",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4121",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4121",
+     "sha256": "afff226d20b224e335316fca78552238fcc3609e102fac7ec6a72619788a4b0f"
+    }
+   ]
+  },
+  {
+   "slug": "1-4201-kantonales-registerharmonisierungsgesetz-krg",
+   "short": "Kantonales Registerharmonisierungsgesetz, KRG",
+   "title": "Gesetz über die Harmonisierung amtlicher Register",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4201",
+   "versions": [
+    {
+     "from": "2023-11-11",
+     "units": 30,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4201",
+     "sha256": "6ee56c80d995be6f90eedc343994718810e138ac38fcb25c7cd633e14fe70cf5"
+    }
+   ]
+  },
+  {
+   "slug": "1-4211",
+   "short": "RB 1.4211",
+   "title": "Gesetz über Niederlassung und Aufenthalt der Schweizer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4211",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4211",
+     "sha256": "f5f08d798b5e2dc8cf5078eb488c6b7b5adc32c2ea6036119a5722d0fc07d662"
+    }
+   ]
+  },
+  {
+   "slug": "2-1201-wavg",
+   "short": "WAVG",
+   "title": "Gesetz über die geheimen Wahlen, Abstimmungen und die Volksrechte",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.1201",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 109,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.1201",
+     "sha256": "91d87654cf6678a95426eaeed85ee76623da81d3b42c6b1d4dc873e3253e00e3"
+    }
+   ]
+  },
+  {
+   "slug": "2-1205-proporzgesetz",
+   "short": "Proporzgesetz",
+   "title": "Gesetz über die Verhältniswahl des Landrates",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.1205",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 35,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.1205",
+     "sha256": "ec5b00042d72f361f0e8dd2b168f6c3d82c12ca83b214e8ae477c9296ae0067c"
+    }
+   ]
+  },
+  {
+   "slug": "2-2221-gbb",
+   "short": "GBB",
+   "title": "Gesetz zur Besetzung von Behörden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2221",
+   "versions": [
+    {
+     "from": "2019-06-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2221",
+     "sha256": "4508b976d1524eaea7ab5b3bcd38510448c62fad90bc55a25f37dc961cb59a51"
+    }
+   ]
+  },
+  {
+   "slug": "2-2321-ausstandsgesetz-aug",
+   "short": "Ausstandsgesetz, AuG",
+   "title": "Gesetz über den Ausstand",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2321",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2321",
+     "sha256": "98d5f7c268f5b738799cd622b990979292263ba18a00f0ddd0837cd03eb78d9d"
+    }
+   ]
+  },
+  {
+   "slug": "2-2511-kantonales-datenschutzgesetz-kdsg",
+   "short": "Kantonales Datenschutzgesetz, KDSG",
+   "title": "Gesetz über den Schutz von Personendaten",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2511",
+   "versions": [
+    {
+     "from": "2023-11-11",
+     "units": 34,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2511",
+     "sha256": "6f3ec04c43fb90752be32a9aea05a43f279fb837492fc7b7eb6c7ed50b7b29c9"
+    }
+   ]
+  },
+  {
+   "slug": "2-2711-offentlichkeitsgesetz-oeg",
+   "short": "Öffentlichkeitsgesetz, OeG",
+   "title": "Gesetz über das Öffentlichkeitsprinzip",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2711",
+   "versions": [
+    {
+     "from": "2007-04-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2711/versions/644",
+     "sha256": "07eb11671e237351ce114450912beb53d8fcedbdd41314d3a55356ea59c4061a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2711",
+     "sha256": "6cc1643ae17742fe15d6729bdbe790020b6c468de631d00d116916ed47a95958"
+    }
+   ]
+  },
+  {
+   "slug": "2-3221-gerichtsorganisationsgesetz-gog",
+   "short": "Gerichtsorganisationsgesetz, GOG",
+   "title": "Gesetz über die Organisation der richterlichen Behörden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3221",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 99,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3221",
+     "sha256": "448244d3094d29b5edc6decf64b568ea94109769f15f0c536657b7eb777b1daf"
+    }
+   ]
+  },
+  {
+   "slug": "3-1310-publikationsgesetz-pug",
+   "short": "Publikationsgesetz, PuG",
+   "title": "Gesetz über die amtliche Publikation",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.1310",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.1310",
+     "sha256": "81a4096c497738f4f1f504f4aa8c2f40e8fa3c502ad8642a5df6eae4790f31c1"
+    }
+   ]
+  },
+  {
+   "slug": "3-2110",
+   "short": "RB 3.2110",
+   "title": "Gesetz zum Haushaltsgleichgewicht des Kantons Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2110",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2110",
+     "sha256": "5e14021ab588dbf0c099dff0e2acf2243d77bef663ff0d1f24a5b89049dca47b"
+    }
+   ]
+  },
+  {
+   "slug": "3-2131-filag",
+   "short": "FiLaG",
+   "title": "Gesetz über den Finanz- und Lastenausgleich zwischen dem Kanton und den Gemeinden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2131",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 47,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2131/versions/782",
+     "sha256": "8568d1c60093fb9e7861353a9c8ad69d4fdddc47db6ea4fcc62731c534d03b87"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 48,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2131",
+     "sha256": "b28a89ea9962abad7edee4bbe78fbad27c015edfa50367d158fa1afaeadb6134"
+    }
+   ]
+  },
+  {
+   "slug": "3-2211-steuergesetz-stg",
+   "short": "Steuergesetz, StG",
+   "title": "Gesetz über die direkten Steuern im Kanton Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2211",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 300,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2211/versions/1087",
+     "sha256": "0ca6d5270a820982006d76bed65e7f3bbff9f8a20b4e0df5ec6ed4088f4eaebb"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 300,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2211",
+     "sha256": "1946303b289712cfce38d8916a7ea43b25091fc48e1dfddf5663b747ee48cca1"
+    }
+   ]
+  },
+  {
+   "slug": "3-3211-expropriationsgesetz",
+   "short": "Expropriationsgesetz",
+   "title": "Gesetz über die Enteignung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.3211",
+   "versions": [
+    {
+     "from": "2025-05-19",
+     "units": 53,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.3211",
+     "sha256": "a143bcc04c093e4327bc7fc1ddc810422f3b5ab083fd2b24b69aac0e901dba02"
+    }
+   ]
+  },
+  {
+   "slug": "3-6201-bevolkerungsschutzgesetz-bsg",
+   "short": "Bevölkerungsschutzgesetz, BSG",
+   "title": "Gesetz über den Bevölkerungsschutz im Kanton Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.6201",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 30,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.6201",
+     "sha256": "ec5393100ad46d079ebe291ab48c3cab0a43e29a280e5775de477018daa56c38"
+    }
+   ]
+  },
+  {
+   "slug": "3-8111-polg",
+   "short": "PolG",
+   "title": "Polizeigesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8111",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 95,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.8111",
+     "sha256": "87e4da8e3ff06bfc8099d8cced5ebb2650813352a10f93391a60378f334d798b"
+    }
+   ]
+  },
+  {
+   "slug": "3-9211",
+   "short": "RB 3.9211",
+   "title": "Gesetz über die Einführung des Schweizerischen Strafgesetzbuches",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.9211",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.9211",
+     "sha256": "6d3ea43380b95084b7cb9ce5acf3c93cbdd4221e1b07be1a629bd3f574defe42"
+    }
+   ]
+  },
+  {
+   "slug": "9-2111-eg-zgb",
+   "short": "EG/ZGB",
+   "title": "Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2111",
+   "versions": [
+    {
+     "from": "2019-06-01",
+     "units": 90,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2111",
+     "sha256": "c0bbe6a70c2f3430022432490e2690d16fc09f74f383ffbad85081d5c0257dd1"
+    }
+   ]
+  },
+  {
+   "slug": "9-2113-eg-kesr",
+   "short": "EG/KESR",
+   "title": "Gesetz über die Einführung des Kindes- und Erwachsenenschutzrechts",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2113",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 34,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2113",
+     "sha256": "22a5617c43686ad0cdef8fa96469a5c587e9983e805a5e3905aca7c1c99357b4"
+    }
+   ]
+  },
+  {
+   "slug": "9-2421-eg-schkg",
+   "short": "EG/SchKG",
+   "title": "Gesetz über die Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2421",
+   "versions": [
+    {
+     "from": "1997-04-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2421",
+     "sha256": "d678131b1a8bd1ecb13a57f3cf1a5daf32c5b3d838a4526049bcacacad9eb3c3"
+    }
+   ]
+  },
+  {
+   "slug": "9-3401-gbg",
+   "short": "GBG",
+   "title": "Gesetz über das Grundbuch",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3401",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3401",
+     "sha256": "77911e8bc2539de14a880846ba9137df46aae6961c62b2aadd9b08bcf73e10ea"
+    }
+   ]
+  },
+  {
+   "slug": "10-1111-bildungsgesetz",
+   "short": "Bildungsgesetz",
+   "title": "Gesetz über Schule und Bildung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1111",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 73,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1111",
+     "sha256": "c3cb66dd400aa2fe5e9bd70623d319260c4ff2e1b0ca7230b7b3620248a989c1"
+    }
+   ]
+  },
+  {
+   "slug": "10-4211-schwimmbadfinanzierungsgesetz",
+   "short": "Schwimmbadfinanzierungsgesetz",
+   "title": "Gesetz über die finanzielle Unterstützung des Schwimmbads Altdorf",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.4211",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.4211",
+     "sha256": "7255c967f3b7992250deeb4d3569d8cf358c4efba7761b278df4a73d4d57db4f"
+    }
+   ]
+  },
+  {
+   "slug": "10-5101",
+   "short": "RB 10.5101",
+   "title": "Gesetz über den Natur- und Heimatschutz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5101",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 40,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5101",
+     "sha256": "b448f99ad13b9c0663f7445b6b5276e030bbbd232e2bb607f34b45fd944c1008"
+    }
+   ]
+  },
+  {
+   "slug": "10-7111-kantonales-kinder-und-jugendforderungsgesetz-kkjfg",
+   "short": "Kantonales Kinder- und Jugendförderungsgesetz, KKJFG",
+   "title": "Gesetz über die Förderung von Kindern und Jugendlichen im Kanton Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.7111",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.7111",
+     "sha256": "b6f48280a03b58717f3ad38b9ef0259aae5e9be17d30d9e96cadedd752666f6c"
+    }
+   ]
+  },
+  {
+   "slug": "10-8111-kulturforderungsgesetz-kfg",
+   "short": "Kulturförderungsgesetz, KFG",
+   "title": "Gesetz über die Förderung der Kultur im Kanton Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.8111",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.8111",
+     "sha256": "f6d6644acd54c5adac61b11116000cf30d55a49b60a296421fdcbebdd49b5796"
+    }
+   ]
+  },
+  {
+   "slug": "20-2231",
+   "short": "RB 20.2231",
+   "title": "Gesetz über die Langzeitpflege",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2231",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 32,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2231",
+     "sha256": "1c2d349f5f65b4b4d858f3c1146a9aca2d95be6b16af5966c3e7e74b1174b676"
+    }
+   ]
+  },
+  {
+   "slug": "20-2421",
+   "short": "RB 20.2421",
+   "title": "Gesetz über die Ergänzungsleistungen zur AHV/IV",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2421",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2421",
+     "sha256": "6c7b1167bfdbaaa9dd5269743d82b36671d73a24616fc3bdabd173b2b389e569"
+    }
+   ]
+  },
+  {
+   "slug": "20-2511-fzg",
+   "short": "FZG",
+   "title": "Gesetz über die Familienzulagen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2511",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 28,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2511",
+     "sha256": "f3c830ea5a6149da248faefbb6302ba459701b90ce1c0555f742fc11d3bc3f2e"
+    }
+   ]
+  },
+  {
+   "slug": "20-3221-ksug",
+   "short": "KSUG",
+   "title": "Gesetz über das Kantonsspital Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3221",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3221",
+     "sha256": "55bf0607e20711fa1838d91207c9a2057ba3be5fe02bc3b72fc52d176b5cc67b"
+    }
+   ]
+  },
+  {
+   "slug": "20-3421-sozialhilfegesetz",
+   "short": "Sozialhilfegesetz",
+   "title": "Gesetz über die öffentliche Sozialhilfe",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3421",
+   "versions": [
+    {
+     "from": "2023-11-11",
+     "units": 54,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3421",
+     "sha256": "c61358c44f535ac047291aa1c004e55a0eef01d348206464a699f32dfe523a80"
+    }
+   ]
+  },
+  {
+   "slug": "20-3461-alimentenbevorschussungsgesetz",
+   "short": "Alimentenbevorschussungsgesetz",
+   "title": "Gesetz über die Bevorschussung von Unterhaltsbeiträgen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3461",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3461",
+     "sha256": "e0062585e0cd4d2565ff3a97500de9af359d8f9fe26147bf25d11a59de22c05f"
+    }
+   ]
+  },
+  {
+   "slug": "30-2111-gg",
+   "short": "GG",
+   "title": "Gesundheitsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2111",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 68,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2111",
+     "sha256": "a36e97e43ec4537a8bfb59dc16c4597602b46667952069d000c63760cf921973"
+    }
+   ]
+  },
+  {
+   "slug": "30-3111-fsg",
+   "short": "FSG",
+   "title": "Gesetz über den Feuerschutz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.3111",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.3111",
+     "sha256": "785546ba4054a218aec321345611f25d10f9d06f301808ee93218f07acd7a739"
+    }
+   ]
+  },
+  {
+   "slug": "40-1111-pbg",
+   "short": "PBG",
+   "title": "Planungs- und Baugesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1111",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 146,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1111",
+     "sha256": "acf8961cffb64232ce082399eccc827307fdb3c9911759a8277bd9a4890dec13"
+    }
+   ]
+  },
+  {
+   "slug": "40-1211-wbg",
+   "short": "WBG",
+   "title": "Wasserbaugesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1211",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 59,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1211",
+     "sha256": "846f3ccc7adb1ecb333537d5c63acb3fa051f3050c6fe6f2e22c8bd880dc4edd"
+    }
+   ]
+  },
+  {
+   "slug": "40-1225",
+   "short": "RB 40.1225",
+   "title": "Gesetz über das Reussdelta",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1225",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1225",
+     "sha256": "2fc39531318eda7548214af12fc25327371c89dec73b0e193a47ce164a319d61"
+    }
+   ]
+  },
+  {
+   "slug": "40-1401",
+   "short": "RB 40.1401",
+   "title": "Gesetz über die Staatshilfe bei Elementarschäden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1401",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1401",
+     "sha256": "e9d8495ace87d8cc76d0af546c941defd0235cbf0f235b0f6dafcf276bc2b784"
+    }
+   ]
+  },
+  {
+   "slug": "40-1402-gebaudeversicherungsgesetz-gvg",
+   "short": "Gebäudeversicherungsgesetz, GVG",
+   "title": "Gesetz über die obligatorische Gebäudeversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1402",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1402",
+     "sha256": "be0bf08cea3e6a3f5a70ef19f78bd55862a465ac21604e2bcc14a17cb5bf754c"
+    }
+   ]
+  },
+  {
+   "slug": "40-4101-gng",
+   "short": "GNG",
+   "title": "Gewässernutzungsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.4101",
+   "versions": [
+    {
+     "from": "1993-04-01",
+     "units": 51,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.4101",
+     "sha256": "e24e76d4ed0c1def8a24e326206c81a86a40675707f0ecf1131f5c7ef4987511"
+    }
+   ]
+  },
+  {
+   "slug": "40-5111-bug",
+   "short": "BUG",
+   "title": "Gesetz über das Bergregal und die Nutzung des Untergrundes",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.5111",
+   "versions": [
+    {
+     "from": "1995-12-05",
+     "units": 33,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.5111",
+     "sha256": "3bd361d221cf86cf272fc9d5d845fe7ceb37d6d41778d9449214d924f07b0a73"
+    }
+   ]
+  },
+  {
+   "slug": "40-7011-kug",
+   "short": "KUG",
+   "title": "Kantonales Umweltgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7011",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 104,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7011",
+     "sha256": "8d883381bfb8bdbe69845cd8987f32cc80577dfd71addeb13faab8a1dc5cb8e2"
+    }
+   ]
+  },
+  {
+   "slug": "40-7211-eng",
+   "short": "EnG",
+   "title": "Energiegesetz des Kantons Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7211",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7211/versions/927",
+     "sha256": "a7a614935feb450f984a54e229e1c5139c8fcd6377bea11461b8e7dc3beccfec"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7211",
+     "sha256": "21e7b20b67d19355aff4e8e60dfd4b7be89b56e07b827db16bf6cdd85b29165e"
+    }
+   ]
+  },
+  {
+   "slug": "50-1111-strg",
+   "short": "StrG",
+   "title": "Strassengesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1111",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 62,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1111",
+     "sha256": "14e962ae5cf7205d2583030d252b2661249b1310e264162a9fea25b7fbcba1d4"
+    }
+   ]
+  },
+  {
+   "slug": "50-1161-kantonales-fuss-und-wanderweggesetz-kfwg",
+   "short": "Kantonales Fuss- und Wanderweggesetz, KFWG",
+   "title": "Gesetz über Fuss- und Wanderwege",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1161",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1161",
+     "sha256": "9519379166085b23a7fae968748ce1de57700a311c15352285cc05dcc1d0b5ce"
+    }
+   ]
+  },
+  {
+   "slug": "50-1411",
+   "short": "RB 50.1411",
+   "title": "Gesetz über die Strassenverkehrssteuern",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1411",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1411",
+     "sha256": "7d9b86a3abfe1776f23c36f0be89fec0abc6ff9745a81545270f09f92b84cece"
+    }
+   ]
+  },
+  {
+   "slug": "50-5111-verkehrsgesetz",
+   "short": "Verkehrsgesetz",
+   "title": "Gesetz über die Förderung des öffentlichen Verkehrs",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.5111",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.5111",
+     "sha256": "2609f0cb2fd0dee987bd7df7d776daab7f3cdd7567ef6776c9b9f991d9514c15"
+    }
+   ]
+  },
+  {
+   "slug": "70-1311-ukbg",
+   "short": "UKBG",
+   "title": "Gesetz über die Urner Kantonalbank",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1311",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 38,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1311",
+     "sha256": "145639b70d25c74d9ac81beeadf60cde1e8242ed848565261df98397ae19e008"
+    }
+   ]
+  },
+  {
+   "slug": "70-1421-lsg",
+   "short": "LSG",
+   "title": "Gesetz über den Ladenschluss und die Sonntagsruhe",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1421",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1421",
+     "sha256": "5d298139cb26a70b591aabfe21eb1f691607e6f3811141a5d97498d4c9444e6c"
+    }
+   ]
+  },
+  {
+   "slug": "70-1611-wfg",
+   "short": "WFG",
+   "title": "Wirtschaftsförderungsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1611",
+   "versions": [
+    {
+     "from": "2013-09-23",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1611",
+     "sha256": "16d385b5a204dec7686a7c2838315aff31ecf4c5c1cad82995e6520dc600d910"
+    }
+   ]
+  },
+  {
+   "slug": "70-2111-gwg",
+   "short": "GWG",
+   "title": "Gastwirtschaftsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2111",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 28,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.2111",
+     "sha256": "784452c4458a92e2576431bf1b14ccf2681481f180f1f09499139a9837bb45ee"
+    }
+   ]
+  },
+  {
+   "slug": "70-2411-tourismusgesetz-tourg",
+   "short": "Tourismusgesetz, TourG",
+   "title": "Gesetz über die Förderung des Tourismus",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2411",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.2411",
+     "sha256": "6ee02310a294d754be76d842380d5426bf845ea7dce4a8d33613e10bf1716f26"
+    }
+   ]
+  },
+  {
+   "slug": "1-1205",
+   "short": "RB 1.1205",
+   "title": "Reglement zur Fachstelle für Frauenfragen der kantonalen Verwaltung und zum Bundesgesetz über die Gleichstellung von Frau und Mann",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.1205",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.1205",
+     "sha256": "82f26f83441e570838005d8ea06582478b08a4c2553f81722ddde23becc939bd"
+    }
+   ]
+  },
+  {
+   "slug": "1-4123",
+   "short": "RB 1.4123",
+   "title": "Verordnung über die Eignungsvoraussetzungen für das Kantons- und Gemeindebürgerrecht",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4123",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4123",
+     "sha256": "d3470eb2ea92a410933c0a2ce9c57f6afeea9240b7e83c69e1b128eb791768ac"
+    }
+   ]
+  },
+  {
+   "slug": "1-4125-aur",
+   "short": "AuR",
+   "title": "Reglement zum Ausweisgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4125",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4125",
+     "sha256": "a3f08082ae4216ec4351e87a8b065e8956ca6db586ddd7493a6b43515ba632f6"
+    }
+   ]
+  },
+  {
+   "slug": "1-4205-krgr",
+   "short": "KRGR",
+   "title": "Reglement zum Kantonalen Registerharmonisierungsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4205",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4205",
+     "sha256": "98d6de77ed9b00db8e653722a6ba951cfebb41bdaeae42e1fe579ce1c5348a95"
+    }
+   ]
+  },
+  {
+   "slug": "1-4215",
+   "short": "RB 1.4215",
+   "title": "Reglement über Niederlassung und Aufenthalt der Schweizer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4215",
+   "versions": [
+    {
+     "from": "1986-04-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4215",
+     "sha256": "319cb43c86a7585689a28efda6d86b34e71417f92797014ed747ca241cf4edbd"
+    }
+   ]
+  },
+  {
+   "slug": "1-4221",
+   "short": "RB 1.4221",
+   "title": "Reglement zum Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration und zum Asylgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4221",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4221",
+     "sha256": "2100e49832cc934fc76ce759ceb835a8d2b5c57a3bd4f14a2c0221794506a9be"
+    }
+   ]
+  },
+  {
+   "slug": "1-4231",
+   "short": "RB 1.4231",
+   "title": "Reglement über den Fonds «Programm S»",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/1.4231",
+   "versions": [
+    {
+     "from": "2022-10-15",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/1.4231",
+     "sha256": "8cb9bd85dd4a0e3887dd3668908eeb7f6c0e2dfdbb2ab273529665f14064ea8e"
+    }
+   ]
+  },
+  {
+   "slug": "2-1203",
+   "short": "RB 2.1203",
+   "title": "Reglement über das Stimmregister für Auslandschweizerinnen und Auslandschweizer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.1203",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.1203",
+     "sha256": "bc38ad6815f720f2c530775d55568aba3ba5f390348cf1ff4ee1795e53639873"
+    }
+   ]
+  },
+  {
+   "slug": "2-2251",
+   "short": "RB 2.2251",
+   "title": "Nebenamtsverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2251",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 31,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2251/versions/949",
+     "sha256": "43e1d9cadea6cd2482b2e659bc5e02d0af8e259845084c8331f5f184557b1f76"
+    },
+    {
+     "from": "2026-03-18",
+     "units": 30,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2251",
+     "sha256": "62040dc64641bb5b19447affbd672583d9bbaaee0c0b6eb578298b13e77b37c6"
+    }
+   ]
+  },
+  {
+   "slug": "2-2345-vrpv",
+   "short": "VRPV",
+   "title": "Verordnung über die Verwaltungsrechtspflege",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2345",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 107,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2345",
+     "sha256": "f952ffb46fef1be60b31006b9672b2aba6277a80c0f0dabaded3b66040bc7d66"
+    }
+   ]
+  },
+  {
+   "slug": "2-2347",
+   "short": "RB 2.2347",
+   "title": "Reglement über die berufsmässige Vertretung in Steuer- und Sozialversicherungssachen vor Obergericht",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.2347",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.2347",
+     "sha256": "8af4e9404e45123ae409ff3ca7299c06d4e03f6aa24c766fecb75fdc07b4ceab"
+    }
+   ]
+  },
+  {
+   "slug": "2-3111-landratsverordnung-lrv",
+   "short": "Landratsverordnung, LRV",
+   "title": "Verordnung über den Landrat",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3111",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3111",
+     "sha256": "74ecec60c37834466fb07a017fb7e4e893d741cebeb65456df94713dad3fec11"
+    }
+   ]
+  },
+  {
+   "slug": "2-3225",
+   "short": "RB 2.3225",
+   "title": "Reglement über die Justizverwaltung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3225",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3225",
+     "sha256": "f268ebbc85cac9132f7d1a6aef070b8a702a1f58f0e925ef3545910062f64643"
+    }
+   ]
+  },
+  {
+   "slug": "2-3227",
+   "short": "RB 2.3227",
+   "title": "Reglement über die Bildung der Spruchkörper der verwaltungsrechtlichen Abteilung des Obergerichts",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3227",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3227",
+     "sha256": "15d04d4cb1c179aca1c6a98565b97f93ca9836bd8b029b9673dbe02d48a2a97b"
+    }
+   ]
+  },
+  {
+   "slug": "2-3229",
+   "short": "RB 2.3229",
+   "title": "Reglement über die Zuständigkeit der Landgerichtspräsidien I und II Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3229",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3229",
+     "sha256": "8ffb94b89c0c13fbf56f6807e44137f358ccf93e4a5f3f42c75e1d4372b7ccc8"
+    }
+   ]
+  },
+  {
+   "slug": "2-3231-gerichtsgebuhrenverordnung-ggebv",
+   "short": "Gerichtsgebührenverordnung, GGebV",
+   "title": "Verordnung über die Gebühren und Entschädigungen vor Gerichtsbehörden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3231",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 33,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3231/versions/654",
+     "sha256": "e8f07466f5a0feaf51c2ed41b820d00cec2c60018abf9bacdcb2795c510c66dd"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 32,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3231",
+     "sha256": "ae1b810c674dd5944605fae7e608c0e5b59935b36cfc6bf328f3d8f3ee036f8e"
+    }
+   ]
+  },
+  {
+   "slug": "2-3232-gerichtsgebuhrenreglement-ggebr",
+   "short": "Gerichtsgebührenreglement, GGebR",
+   "title": "Reglement über die Gebühren und Entschädigungen vor Gerichtsbehörden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3232",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 41,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3232",
+     "sha256": "7fdc348cdf1f27688150da1ac4282a78cf91ee56615f8355fd2de632bead513d"
+    }
+   ]
+  },
+  {
+   "slug": "2-3243",
+   "short": "RB 2.3243",
+   "title": "Reglement über die Akkreditierung von Medienschaffenden an den Urner Gerichten",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3243",
+   "versions": [
+    {
+     "from": "2021-06-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3243",
+     "sha256": "70ccb4a9680b56273d2c9e331f2583516350df352ee0b1ae5ec9560bc7309202"
+    }
+   ]
+  },
+  {
+   "slug": "2-3320",
+   "short": "RB 2.3320",
+   "title": "Verordnung zur versuchsweisen Weiterführung der Kostenlenkung im Personalbereich mittels Globalbudget",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3320",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3320",
+     "sha256": "8f571b033e8a59cac83d584b04142cb36966dfe8e7af99ed1a466253b2ff809c"
+    }
+   ]
+  },
+  {
+   "slug": "2-3321-organisationsverordnung",
+   "short": "Organisationsverordnung",
+   "title": "Verordnung über die Organisation der Regierungs- und der Verwaltungstätigkeit",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3321",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 57,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3321/versions/806",
+     "sha256": "ccd2ad557098f85fe9759e0d8c543e35737d3fe56f1e9c1343f1e8db9acc59de"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 58,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3321",
+     "sha256": "3d1c6ecfb5583123e3c8ff7779b5d53c22caf2b4cc03a91d7ebf916285bb3db6"
+    }
+   ]
+  },
+  {
+   "slug": "2-3322-organisationsreglement-orr",
+   "short": "Organisationsreglement, ORR",
+   "title": "Reglement über die Organisation der Regierungs- und der Verwaltungstätigkeit",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3322",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 50,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3322/versions/804",
+     "sha256": "0b63be57c6ae09420d1691c2a15a42bf92572796ac94605e9033f76b44da096e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 50,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3322",
+     "sha256": "eeb6e121b5ac7a2a3cfe211cf1f1de33f55ab4183ba28f3a64b21c62c6320453"
+    }
+   ]
+  },
+  {
+   "slug": "2-3323",
+   "short": "RB 2.3323",
+   "title": "Reglement über die Koordination im Verwaltungsverfahren",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3323",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3323",
+     "sha256": "42b214c933b9872027172c031d0c0cfe6df000ff60e50c62e63e03f1ea032841"
+    }
+   ]
+  },
+  {
+   "slug": "2-3325-vorsorgeverordnung-vvr",
+   "short": "Vorsorgeverordnung, VVR",
+   "title": "Verordnung über die Vorsorge für Mitglieder des Regierungsrates",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3325",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3325",
+     "sha256": "96a13bcb0cc3b8254d326232c8645088e19b5e74bad089228c2d838a0249a26a"
+    }
+   ]
+  },
+  {
+   "slug": "2-3327",
+   "short": "RB 2.3327",
+   "title": "Reglement über die Unterschriftsberechtigung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3327",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3327/versions/803",
+     "sha256": "500de064f6bc7331b33d216d6ee2df4a8061901c5d75a5e5e140a38c3e21425e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3327",
+     "sha256": "67d6e62334edd973b4dd2bd70a1ad4a673a8e4f60ccba9011fe0cd0d96212cc4"
+    }
+   ]
+  },
+  {
+   "slug": "2-3331-parkplatzreglement",
+   "short": "Parkplatzreglement",
+   "title": "Reglement über die Benützung von Parkplätzen der Kantonsverwaltung und der kantonalen Schulen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.3331",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.3331",
+     "sha256": "a192a56c9948481ebc89e7dc86dafbad450ddbb0e7071cca73e846315cefd8a4"
+    }
+   ]
+  },
+  {
+   "slug": "2-4211-pv",
+   "short": "PV",
+   "title": "Personalverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.4211",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 90,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.4211",
+     "sha256": "8a84fbc0ad109e2a3790e8841183f13e8bcbd2f0b46a821aa9d6fc813bfccc9e"
+    }
+   ]
+  },
+  {
+   "slug": "2-4213-pr",
+   "short": "PR",
+   "title": "Personalreglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.4213",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 71,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.4213",
+     "sha256": "5c77979621da888ba3d97b2c3f83236943a1777a996b8c7c14e65c0f3b5ac2e8"
+    }
+   ]
+  },
+  {
+   "slug": "2-4215",
+   "short": "RB 2.4215",
+   "title": "Reglement über die Mitarbeiterinnen- und Mitarbeitergespräche",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.4215",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.4215",
+     "sha256": "ca8cbdae00a0ffa4aca1c048700067ddf373635dfa2eb035a477b475f5e65191"
+    }
+   ]
+  },
+  {
+   "slug": "2-4219-rap",
+   "short": "RAP",
+   "title": "Reglement über die angepassten Arbeitsplätze",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.4219",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.4219",
+     "sha256": "d1dfb250d09b912bbfd902e62c68fe0aa777981bf4d26bd30900080680abf3be"
+    }
+   ]
+  },
+  {
+   "slug": "2-4221-pensionskassenverordnung-pkv",
+   "short": "Pensionskassenverordnung, PKV",
+   "title": "Verordnung über die Pensionskasse Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/2.4221",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/2.4221",
+     "sha256": "5e69b556c0536faac37eb4253bbc264fd5d0742c0f30d6fa72f8ba65f1c35756"
+    }
+   ]
+  },
+  {
+   "slug": "3-1311-publikationsreglement-pur",
+   "short": "Publikationsreglement, PuR",
+   "title": "Reglement über die amtliche Publikation",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.1311",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.1311",
+     "sha256": "d0bd58a7b3498841c909005732acdbaaf2133d7aaaa05c799359932e07c2985b"
+    }
+   ]
+  },
+  {
+   "slug": "3-2111-fhv",
+   "short": "FHV",
+   "title": "Verordnung über den Finanzhaushalt des Kantons Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2111",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 101,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2111",
+     "sha256": "502977293a8b9f8ed39e4ed567329e79d36d532b80209a658a94e38271485181"
+    }
+   ]
+  },
+  {
+   "slug": "3-2115",
+   "short": "RB 3.2115",
+   "title": "Reglement über das Rechnungswesen der Einwohnergemeinden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2115",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 63,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2115",
+     "sha256": "60634c63612224cd1d725b80818aeec87a24de14c531fce00e4b8ce438997980"
+    }
+   ]
+  },
+  {
+   "slug": "3-2117",
+   "short": "RB 3.2117",
+   "title": "Reglement über den Fonds Integrationsagenda",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2117",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2117",
+     "sha256": "6d9e5411c2066e971c785026a53a8bf58ba7ea1fe501982e4983e11073836c33"
+    }
+   ]
+  },
+  {
+   "slug": "3-2119",
+   "short": "RB 3.2119",
+   "title": "Reglement über den Solidaritätsfonds im Zusammenhang mit der Zusammenarbeitsvereinbarung zwischen dem Kanton, den Gemeinden und dem SRK",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2119",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2119",
+     "sha256": "b0b4fd46c871d64d23427af9adc7cd2186df971bc7ec3b2a37f2198c0f73f271"
+    }
+   ]
+  },
+  {
+   "slug": "3-2141-zlr",
+   "short": "ZLR",
+   "title": "Reglement über die Zentrumsleistungen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2141",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2141",
+     "sha256": "6f9f41723c9618bec20b8aafab31edfcd9813ddbdaff9b5e12d6a5784d227244"
+    }
+   ]
+  },
+  {
+   "slug": "3-2213",
+   "short": "RB 3.2213",
+   "title": "Reglement über die Besteuerung nach dem Aufwand",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2213",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2213",
+     "sha256": "6202b0a421337ddb967e3d661d37154863e276b1df5fb691968ff92b29141edb"
+    }
+   ]
+  },
+  {
+   "slug": "3-2214-quellensteuerreglement-qstr",
+   "short": "Quellensteuerreglement, QStR",
+   "title": "Reglement über die Quellensteuer und das vereinfachte Abrechnungsverfahren",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2214",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2214",
+     "sha256": "f8c343fa9d42419c91ad5d0ad8b179642d8c63fc69d707491c257a6884bacfca"
+    }
+   ]
+  },
+  {
+   "slug": "3-2217-liegenschaftskostenreglement-lkr",
+   "short": "Liegenschaftskostenreglement, LKR",
+   "title": "Reglement über den Abzug der Kosten von Liegenschaften des Privatvermögens",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2217",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2217",
+     "sha256": "1af09463ff9f2f0ecb7b356320e2b95eaff875cd4bc48ddff3913afdf6b37034"
+    }
+   ]
+  },
+  {
+   "slug": "3-2218-ekor",
+   "short": "EKoR",
+   "title": "Reglement über die Entschädigung und Kostenbeteiligung zwischen Kanton und Gemeinden im Steuerwesen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2218",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2218",
+     "sha256": "c26ff3b8892fe31c95764c0afa86e0a067c3e2c4191ca478a4c98907f01ae4cf"
+    }
+   ]
+  },
+  {
+   "slug": "3-2219-steuerbezugsreglement-bezr",
+   "short": "Steuerbezugsreglement, BezR",
+   "title": "Reglement über den allgemeinen Steuerbezug und das Abrechnungsverfahren",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2219",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2219/versions/415",
+     "sha256": "5f66d06463882d1f28a3533bf1ccb571d5419fd30e755b294957bb8fb568fdad"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2219",
+     "sha256": "2051f42dcb9f6b6962b974a57542bd23b754b7fc397b77cc1ba5713a0cae453e"
+    }
+   ]
+  },
+  {
+   "slug": "3-2225",
+   "short": "RB 3.2225",
+   "title": "Reglement über die elektronische Einreichung der Steuererklärung und die elektronische Aufbewahrung und Archivierung von Steuerakten",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2225",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2225",
+     "sha256": "d708da2dd005a50a362fe0e1d96aa09eb48bed4a3c5b41a8e6f801b6ce537ee9"
+    }
+   ]
+  },
+  {
+   "slug": "3-2227-schatzungsreglement-schar",
+   "short": "Schätzungsreglement, SchäR",
+   "title": "Reglement über die Schätzung, die Festlegung der Eigenmiet- und Steuerwerte sowie das Bewertungsverfahren für nichtlandwirtschaftliche Grundstücke",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2227",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2227",
+     "sha256": "cda8d5391f28364a3cbc95a2f2107bdfae5542b1ed138068bc31279eb34b9683"
+    }
+   ]
+  },
+  {
+   "slug": "3-2402-dbgr",
+   "short": "DBGR",
+   "title": "Reglement zum Bundesgesetz über die direkte Bundessteuer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2402",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2402",
+     "sha256": "4e4a0866dcc8415d525d1d804323edcdea7596590ed074b22635626db5f14502"
+    }
+   ]
+  },
+  {
+   "slug": "3-2403-vstgr",
+   "short": "VStGR",
+   "title": "Reglement zum Bundesgesetz über die Verrechnungssteuer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2403",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2403",
+     "sha256": "7ea29e19ebf6f2a5920bc01e28e02bb94d2cee495ff2445d09e4f296395c6019"
+    }
+   ]
+  },
+  {
+   "slug": "3-2404-pstar",
+   "short": "PStAR",
+   "title": "Reglement zur Verordnung über die pauschale Steueranrechnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2404",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2404",
+     "sha256": "2d3c0bfba2e617818dd51b7c13b64f26b8b0c6e2c64ebb3557a7062402ce8632"
+    }
+   ]
+  },
+  {
+   "slug": "3-2512",
+   "short": "RB 3.2512",
+   "title": "Gebührenverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2512",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2512",
+     "sha256": "a1f705657f6039d8485f63439a605f43caaf7e5fd1e6a2705afc134c9515360a"
+    }
+   ]
+  },
+  {
+   "slug": "3-2521",
+   "short": "RB 3.2521",
+   "title": "Gebührenreglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.2521",
+   "versions": [
+    {
+     "from": "2000-03-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.2521",
+     "sha256": "59d3af4ce1587b1b2de7abfb514705d51b6a97f489629599a4aa5740bf549510"
+    }
+   ]
+  },
+  {
+   "slug": "3-3115-submissionsreglement",
+   "short": "Submissionsreglement",
+   "title": "Reglement über den Vollzug der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.3115",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.3115",
+     "sha256": "697a0d7c59d218047d3cfc0068f7d3bdd37695286e74dabb91acf482f7f8e54a"
+    }
+   ]
+  },
+  {
+   "slug": "3-6110",
+   "short": "RB 3.6110",
+   "title": "Verordnung über die Aufhebung von Militärrecht",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.6110",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.6110",
+     "sha256": "cb41fddd782f97750c9c289ad6d894fbadbbc5b0c68d52790f3bebe6422ae5f1"
+    }
+   ]
+  },
+  {
+   "slug": "3-6115-mwr",
+   "short": "MWR",
+   "title": "Reglement über das Militär und den Wehrpflichtersatz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.6115",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.6115",
+     "sha256": "d3a9b75ae8734d02a42275ab41bf6aee631cf5e3010d38de3e80996fb10c7aab"
+    }
+   ]
+  },
+  {
+   "slug": "3-6205-zivilschutzreglement-zsr",
+   "short": "Zivilschutzreglement, ZSR",
+   "title": "Reglement über den Zivilschutz im Kanton Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.6205",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 41,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.6205",
+     "sha256": "2602bf023ec8efb250f62424d68a1dcaf3dfa3a864992051d2bfd5534fe0ce5a"
+    }
+   ]
+  },
+  {
+   "slug": "3-6207-kafur-reglement-kfsr",
+   "short": "KAFUR-Reglement, KFSR",
+   "title": "Reglement über den kantonalen Führungsstab Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.6207",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.6207",
+     "sha256": "1257e8e14ea97dce7b69c1ad097f9f4e33c2c7c14525b2438a3710d189b8b374"
+    }
+   ]
+  },
+  {
+   "slug": "3-6301",
+   "short": "RB 3.6301",
+   "title": "Verordnung über die Organisation und die Aufgaben der wirtschaftlichen Landesversorgung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.6301",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.6301",
+     "sha256": "69a8d6a3198a805fe8b6439c42111478a27cf955cc499000a9187c509eb6c51d"
+    }
+   ]
+  },
+  {
+   "slug": "3-8115",
+   "short": "RB 3.8115",
+   "title": "Videoverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8115",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.8115",
+     "sha256": "f777efc1a1fa3253ecedcc2ec25112a8344bd360136ff14b120c10488b31b301"
+    }
+   ]
+  },
+  {
+   "slug": "3-8127-polr",
+   "short": "PolR",
+   "title": "Polizeireglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8127",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 33,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.8127",
+     "sha256": "687e1d010367fa620caf722286dcabb4833ad6035a5f7cfe0e4c3dce8233ac8e"
+    }
+   ]
+  },
+  {
+   "slug": "3-8325",
+   "short": "RB 3.8325",
+   "title": "Reglement zur Umsetzung des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit und des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8325",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.8325",
+     "sha256": "62b43de7cde52f6f6202321efa6df9cda258b76cebc4ad1ab7a3ff9d8b9590d0"
+    }
+   ]
+  },
+  {
+   "slug": "3-8327",
+   "short": "RB 3.8327",
+   "title": "Reglement über die Überwachung des Post- und Fernmeldeverkehrs ausserhalb von Strafverfahren",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.8327",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.8327",
+     "sha256": "a0088b4983c59d4cda9fa68540be417fd33832a6f8f6ea6772342dff1984faff"
+    }
+   ]
+  },
+  {
+   "slug": "3-9213",
+   "short": "RB 3.9213",
+   "title": "Reglement über den straflosen Schwangerschaftsabbruch",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.9213",
+   "versions": [
+    {
+     "from": "2002-11-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.9213",
+     "sha256": "08835faf6e13bc03fc4fab1af529a22a71cda840d17d9db332642f4351709aee"
+    }
+   ]
+  },
+  {
+   "slug": "3-9223-ordnungsbussenreglement-obr",
+   "short": "Ordnungsbussenreglement, OBR",
+   "title": "Reglement über die Erhebung von Ordnungsbussen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.9223",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.9223",
+     "sha256": "227e5614ccd3e60f6d439d889732538b65777f70199481d4cb5642987681d089"
+    }
+   ]
+  },
+  {
+   "slug": "3-9321-vsmv",
+   "short": "VSMV",
+   "title": "Verordnung über den Straf- und Massnahmenvollzug",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.9321",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 44,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.9321",
+     "sha256": "d9767541f1035e7945da4e7511ed0e56df4d72b277c6dba0b098595e681cecc2"
+    }
+   ]
+  },
+  {
+   "slug": "3-9323",
+   "short": "RB 3.9323",
+   "title": "Verordnung über das Strafregister, die Leumundsberichte und die Leumundszeugnisse",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/3.9323",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/3.9323",
+     "sha256": "4b012aed0a75685e5c05021803183c29be579f1db3661ed2edfa5b9495ba5c20"
+    }
+   ]
+  },
+  {
+   "slug": "9-2115",
+   "short": "RB 9.2115",
+   "title": "Reglement über die berufsmässige Ehe- und Partnerschaftsvermittlung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2115",
+   "versions": [
+    {
+     "from": "2003-03-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2115",
+     "sha256": "d024611c5ea8acff49deed1ee514447490af1ed04cf36862ee488595b4456ab8"
+    }
+   ]
+  },
+  {
+   "slug": "9-2117",
+   "short": "RB 9.2117",
+   "title": "Reglement über die Einführung des Kindes- und Erwachsenenschutzrechts",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2117",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2117",
+     "sha256": "048739e76e45ee2a6a9f9ef25382d6ad30c086b5bcd36d5d13ba153aeb9ce7e2"
+    }
+   ]
+  },
+  {
+   "slug": "9-2125-pflegekinderreglement",
+   "short": "Pflegekinderreglement",
+   "title": "Reglement über die Aufnahme von Kindern zur Pflege und zur Adoption",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2125",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2125",
+     "sha256": "3a5ebf6b67bcc30e48b110867c4b7efe41594921d1b3cdca76fb69557a08efd4"
+    }
+   ]
+  },
+  {
+   "slug": "9-2311",
+   "short": "RB 9.2311",
+   "title": "Verordnung über das Notariat",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2311",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 44,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2311",
+     "sha256": "a623d37e860c0837a9598e5b58220a08eb2bbedab334a86debbd6c1a172f6c6f"
+    }
+   ]
+  },
+  {
+   "slug": "9-2313",
+   "short": "RB 9.2313",
+   "title": "Reglement betreffend die Ausführung der Verordnung über das Notariat",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2313",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2313",
+     "sha256": "ffaecb2861c280e5d784b6a0aebb1b46cfc06c813743680edee86136b6846d73"
+    }
+   ]
+  },
+  {
+   "slug": "9-2315",
+   "short": "RB 9.2315",
+   "title": "Reglement über die Notariatsprüfung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2315",
+   "versions": [
+    {
+     "from": "2002-06-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2315",
+     "sha256": "059d1d05ca8070c894de39c85144c8ceb2001e5971243df130880abc823138f8"
+    }
+   ]
+  },
+  {
+   "slug": "9-2321-anv",
+   "short": "AnV",
+   "title": "Anwaltsverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2321",
+   "versions": [
+    {
+     "from": "2012-12-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2321",
+     "sha256": "68e643cf3fd9677af78706f62fbcf85e3a57c6c5d79b4822dfc8aa0778235c1c"
+    }
+   ]
+  },
+  {
+   "slug": "9-2325",
+   "short": "RB 9.2325",
+   "title": "Reglement über die Anwaltsprüfung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.2325",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 27,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.2325",
+     "sha256": "a130402b209dd811f7837e9251f712d0714acb8c5cb65b92a1662b338bd49134"
+    }
+   ]
+  },
+  {
+   "slug": "9-3101-kzstv",
+   "short": "KZStV",
+   "title": "Kantonale Zivilstandsverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3101",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3101",
+     "sha256": "62a23f2c0fa26693e0c886775b57317343b483dec08326790215b646fe0924ee"
+    }
+   ]
+  },
+  {
+   "slug": "9-3104",
+   "short": "RB 9.3104",
+   "title": "Verordnung über die Stiftungsaufsicht",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3104",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3104",
+     "sha256": "1bee6f9d887694e3a2b310d5f5e10d9366c8cd07b2ac0230448b14d400f5d1cb"
+    }
+   ]
+  },
+  {
+   "slug": "9-3115",
+   "short": "RB 9.3115",
+   "title": "Reglement zum über den Vollzug zivilgerichtlicher Anordnungen der elektronischen Überwachung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3115",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3115",
+     "sha256": "46f55be32abd26ea2f57e27872b8c69986bc4f3467c1c0cf45d0767919d800e8"
+    }
+   ]
+  },
+  {
+   "slug": "9-3408-gbr",
+   "short": "GBR",
+   "title": "Reglement über das Grundbuch",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3408",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3408",
+     "sha256": "662fa8ac71e065b87c178c5206b04cd4d749abaebfb0d8f8669dade0535bc84b"
+    }
+   ]
+  },
+  {
+   "slug": "9-3431-kantonale-geoinformationsverordnung-kgeoiv",
+   "short": "Kantonale Geoinformationsverordnung, kGeoIV",
+   "title": "Verordnung über Geoinformation",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3431",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3431",
+     "sha256": "05a55ee18ceee0399f2f9613e6747fa888c1cdcb310c46095e5f03802ddbba4a"
+    }
+   ]
+  },
+  {
+   "slug": "9-3432-kantonales-geoinformationsreglement-kgeoir",
+   "short": "Kantonales Geoinformationsreglement, kGeoIR",
+   "title": "Reglement über Geoinformation",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3432",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3432",
+     "sha256": "c5ab4123538c7059a7797a27d1c0334ae2d88d39d3da763bf093d8f668cce59d"
+    }
+   ]
+  },
+  {
+   "slug": "9-3436",
+   "short": "RB 9.3436",
+   "title": "Reglement über die Gebühren für die laufende Nachführung der amtlichen Vermessung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3436",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3436",
+     "sha256": "161dd946c49dd2a1e0b005b7c30301c62456da93e9286ad8688f34cb40faaa74"
+    }
+   ]
+  },
+  {
+   "slug": "9-3441",
+   "short": "RB 9.3441",
+   "title": "Reglement über das Verfahren vor der Zivilschätzungskommission",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3441",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3441",
+     "sha256": "4a80f35654190145196042a4770cd06051bb220c328b37f62080170907ec5cd4"
+    }
+   ]
+  },
+  {
+   "slug": "9-3616",
+   "short": "RB 9.3616",
+   "title": "Verordnung über die öffentlich-rechtliche Bodenverbesserungsgenossenschaft",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.3616",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 42,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.3616",
+     "sha256": "3894088b336365a9212f3178414a96098789cd08ce7d2aa0912afc24cd7c48a6"
+    }
+   ]
+  },
+  {
+   "slug": "9-4222",
+   "short": "RB 9.4222",
+   "title": "Reglement zum Miet- und Pachtrecht im Obligationenrecht",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.4222",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.4222/versions/821",
+     "sha256": "262dbc28c39b8350afabbdafc1ada2e8e6efc4469069889721329c88bd49c465"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.4222",
+     "sha256": "405862d797b330260a0f17b601c65dc433484d99227ccc1ccf2934d836361a06"
+    }
+   ]
+  },
+  {
+   "slug": "9-4225",
+   "short": "RB 9.4225",
+   "title": "Reglement über die berufsmässige Vertretung in Streitigkeiten aus dem Arbeitsverhältnis zwischen Arbeitnehmenden und Arbeitgebenden vor richterlichen Behörden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.4225",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.4225",
+     "sha256": "3642d26dfbea723ead05d3a4184956c770e0f4d5c2a055d3353f342727468182"
+    }
+   ]
+  },
+  {
+   "slug": "9-5121",
+   "short": "RB 9.5121",
+   "title": "Verordnung zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.5121",
+   "versions": [
+    {
+     "from": "1985-01-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.5121",
+     "sha256": "ae5f3ee54672fdc031b28fc6d4f17512342ad3b6640af01095afded0c1c24b94"
+    }
+   ]
+  },
+  {
+   "slug": "9-5125",
+   "short": "RB 9.5125",
+   "title": "Reglement zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/9.5125",
+   "versions": [
+    {
+     "from": "1985-01-01",
+     "units": 3,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/9.5125",
+     "sha256": "6263fa5d28ff9e21e0ad264c7cfed81dc83a104a3cc2bf92c826fac4c5d87043"
+    }
+   ]
+  },
+  {
+   "slug": "10-1115-volksschulverordnung",
+   "short": "Volksschulverordnung",
+   "title": "Verordnung über die Volksschule",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1115",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 69,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1115/versions/1031",
+     "sha256": "3fffcc1b2d855224648c5fc5158dd608f4cfdd1fb0cc287c7a10120ef2cb76b2"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 60,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1115",
+     "sha256": "902e1e13f106d233e333f9b2d2dc76d71215525b981bf502b360202db505f648"
+    }
+   ]
+  },
+  {
+   "slug": "10-1117",
+   "short": "RB 10.1117",
+   "title": "Reglement über die Einführungsklasse",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1117",
+   "versions": [
+    {
+     "from": "2002-08-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1117",
+     "sha256": "09020a54c1fe14bda521764b38d7046564a31ea0a9a123bfa6f2e219a96ed86d"
+    }
+   ]
+  },
+  {
+   "slug": "10-1135",
+   "short": "RB 10.1135",
+   "title": "Reglement über die Beurteilung im Kindergarten",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1135",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 52,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1135/versions/535",
+     "sha256": "bf63463d20b6450f024c4eed1e3f6d5f726c9a5aa8148d32dfb4123646872f5a"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1135",
+     "sha256": "32f5fbf9ece7f238308f0e7fa544efaffc435d82d3b17140d8210ab7ef127c41"
+    }
+   ]
+  },
+  {
+   "slug": "10-1137",
+   "short": "RB 10.1137",
+   "title": "Reglement über die Beurteilung und die Promotion in der Primarstufe",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1137",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1137/versions/852",
+     "sha256": "a48beee8be90a639a4d2c8e15cf3400631383018a4a37c4804857e3dd217840a"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1137",
+     "sha256": "2bbfa84c6b8ae23a1a0d6d959e728626d8e4e223acb11807a2e5eb91b46ae9ef"
+    }
+   ]
+  },
+  {
+   "slug": "10-1139",
+   "short": "RB 10.1139",
+   "title": "Reglement über die Beurteilung und die Promotion auf der Oberstufe",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1139",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 44,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1139",
+     "sha256": "e4477940d2ea8859819a2a4ba1c66c7b2e023e189dd44bde6a01f0861bb7d5bc"
+    }
+   ]
+  },
+  {
+   "slug": "10-1212",
+   "short": "RB 10.1212",
+   "title": "Reglement über den beruflichen Auftrag der Lehrpersonen an der Volksschule (Amtsauftrag)",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1212",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1212",
+     "sha256": "5293ab4a0469e6f2ed7c409fc162f87f7c965c4a30a06802acb408187a99870c"
+    }
+   ]
+  },
+  {
+   "slug": "10-1213-prl",
+   "short": "PRL",
+   "title": "Personalreglement für die kantonalen Lehrpersonen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1213",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1213",
+     "sha256": "1f2564fcbc75a1fa4fca4826b0397495f6e0bec933aa276ac7df09ce20a6cc8d"
+    }
+   ]
+  },
+  {
+   "slug": "10-1219-ral",
+   "short": "RAL",
+   "title": "Reglement über den beruflichen Auftrag der kantonalen Lehrpersonen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1219",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1219",
+     "sha256": "5a75e43ba91ecaf4c5fca4b959656bc724a50e9741930c11e82ff7626e3451cc"
+    }
+   ]
+  },
+  {
+   "slug": "10-1222-schulische-beitragsverordnung-vbv",
+   "short": "Schulische Beitragsverordnung, VBV",
+   "title": "Verordnung über Beiträge des Kantons an die Volksschulen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1222",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1222",
+     "sha256": "033b2fad5b83e25a8bc844d9d67a2cd4155086b0f0f76049d9ecafd721ff85a1"
+    }
+   ]
+  },
+  {
+   "slug": "10-1224-awr",
+   "short": "AWR",
+   "title": "Reglement über die Anstellung und Weiterbildung der Lehrpersonen an den Volksschulen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1224",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 28,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1224",
+     "sha256": "18a631ac119cc251d57999ed6a93a1a37d2e8f3df27ba3353eb8414a1c6a1dab"
+    }
+   ]
+  },
+  {
+   "slug": "10-1310",
+   "short": "RB 10.1310",
+   "title": "Reglement über den Fonds Kantonaler Lehrmittelverlag",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1310",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1310",
+     "sha256": "d608a25ba2fc5250d54d8a7a52c2d3d9fb143cbf4cbd3d862306e80d4c701d61"
+    }
+   ]
+  },
+  {
+   "slug": "10-1421",
+   "short": "RB 10.1421",
+   "title": "Reglement über den Schulmedizinischen Dienst",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1421",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1421/versions/856",
+     "sha256": "f34d944ca992f6b888724132c6ccd1b8027a079c5e80d2dc583c1bf3e95f5f80"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1421",
+     "sha256": "e00616aafd71983eaefacd962a2e11cc9ba9450618603808f1b380a5562be7cd"
+    }
+   ]
+  },
+  {
+   "slug": "10-1447",
+   "short": "RB 10.1447",
+   "title": "Reglement über die Schulleitung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1447",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1447",
+     "sha256": "d5f962f421fdabb45d7523e373a3398dd9aa49350a6756e2fed7841e82bc1885"
+    }
+   ]
+  },
+  {
+   "slug": "10-1462-vmv",
+   "short": "VMV",
+   "title": "Verordnung über den freiwilligen Musikunterricht an der Volksschule",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1462",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1462",
+     "sha256": "d015b1ee9c632c152e670927df24e2cfa415397f4a6ad0570937de80134a0d8d"
+    }
+   ]
+  },
+  {
+   "slug": "10-1467",
+   "short": "RB 10.1467",
+   "title": "Reglement über die Absenzen und Beurlaubungen für Schülerinnen und Schüler",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1467",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1467",
+     "sha256": "dbeda67af816e2efa32c014e9ffa6903a648b419f717b6a7e908385149bc80e7"
+    }
+   ]
+  },
+  {
+   "slug": "10-1611",
+   "short": "RB 10.1611",
+   "title": "Verordnung über das sonderpädagogische Angebot im Kanton Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1611",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1611",
+     "sha256": "e1550c1e0b7c6900b2f162376221c603acb099c4c417daec4ed2307895ab72a8"
+    }
+   ]
+  },
+  {
+   "slug": "10-1615",
+   "short": "RB 10.1615",
+   "title": "Reglement über die Kostenbeteiligung der Erziehungsberechtigten im Bereich des sonderpädagogischen Angebots",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1615",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1615",
+     "sha256": "808d542260811f2f42a041045dc4d1aa9dd12c565877c4c84937d4076ba402a5"
+    }
+   ]
+  },
+  {
+   "slug": "10-1617",
+   "short": "RB 10.1617",
+   "title": "Reglement über die Entschädigung bei unzumutbarem Schulweg im Rahmen des sonderpädagogischen Angebots",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1617",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1617",
+     "sha256": "ae8fe629d0bf6e5eb69583ab1d2ecbcc049130c877221e54622bb18d264f5171"
+    }
+   ]
+  },
+  {
+   "slug": "10-1711-ubertrittsreglement",
+   "short": "Übertrittsreglement",
+   "title": "Reglement über den Übertritt der Schülerinnen und Schüler in die Oberstufe und in das Gymnasium",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1711",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.1711",
+     "sha256": "2143bac2998141eb51c2fe81a5ec6b76c2aac4fa7e23b645af232995a4abcb7d"
+    }
+   ]
+  },
+  {
+   "slug": "10-2201-stipendienverordnung",
+   "short": "Stipendienverordnung",
+   "title": "Verordnung über die Ausrichtung von Ausbildungsbeiträgen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2201",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 30,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2201",
+     "sha256": "df3492ec4b9efe110711a8502112bfdf10abb7e59b202d8c18d7048f2c0ac286"
+    }
+   ]
+  },
+  {
+   "slug": "10-2205-stipendienreglement",
+   "short": "Stipendienreglement",
+   "title": "Reglement über die Ausrichtung von Ausbildungsbeiträgen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2205",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 32,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2205",
+     "sha256": "24a29f8ed91899ce50e0c6c97acfb7c25e76420408fb7f7eed6e20c05a7d30ab"
+    }
+   ]
+  },
+  {
+   "slug": "10-2401-mittelschulverordnung",
+   "short": "Mittelschulverordnung",
+   "title": "Verordnung über die Kantonale Mittelschule Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2401",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2401",
+     "sha256": "31e5f3b9bcc4b4edd7d758000cbf8407e4ee469773fa9dafeda8ef358a96cd2a"
+    }
+   ]
+  },
+  {
+   "slug": "10-2406",
+   "short": "RB 10.2406",
+   "title": "Reglement über die bilinguale Maturität an der Kantonalen Mittelschule Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2406",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2406",
+     "sha256": "00835ec036924a5fb1614d2c8fe7e27877ee1ac5d90d0d6a45fa36fb60f425ed"
+    }
+   ]
+  },
+  {
+   "slug": "10-2414-mpr",
+   "short": "MPR",
+   "title": "Reglement über die Maturitätsprüfungen an der Kantonalen Mittelschule Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2414",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 42,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2414",
+     "sha256": "00d89f5a3555adba5fb3e53cee1da38aaa70698d4b6e46e462f09ba2b7ae5780"
+    }
+   ]
+  },
+  {
+   "slug": "10-2416",
+   "short": "RB 10.2416",
+   "title": "Reglement über die Maturaarbeit an der Kantonalen Mittelschule Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2416",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2416",
+     "sha256": "869ba76f0dce13025af61cd38fe331f67bd027a51a5b313a5d62f4bc20df3504"
+    }
+   ]
+  },
+  {
+   "slug": "10-2418-promotionsreglement-promr",
+   "short": "Promotionsreglement, PromR",
+   "title": "Reglement über die Promotion an der Kantonalen Mittelschule Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2418",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2418/versions/560",
+     "sha256": "adc8632ca6f52474073af090dc3f3add78a0f5a891e3a17b4a17a086a6a6afc1"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2418",
+     "sha256": "f5d8ab1dc0f9fabcd9e4fc70c454fbaa10a00881f7d2599053400581577679ae"
+    }
+   ]
+  },
+  {
+   "slug": "10-2420",
+   "short": "RB 10.2420",
+   "title": "Reglement über die Aufnahme in das Gymnasium an der Kantonalen Mittelschule Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2420",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2420",
+     "sha256": "f835c3f3d0f546c6c3820089300f633cdf93de7f298cc1d848a5e653e2402ec6"
+    }
+   ]
+  },
+  {
+   "slug": "10-2425-fms-aufnahmereglement",
+   "short": "FMS-Aufnahmereglement",
+   "title": "Reglement über die Aufnahme in die Fachmittelschule",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2425",
+   "versions": [
+    {
+     "from": "2006-08-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2425",
+     "sha256": "a569819ffea626979fcdf4c28cec62abcd1f8cc4b38205403de046830e310920"
+    }
+   ]
+  },
+  {
+   "slug": "10-2427-fmp-abschlussprufungsreglement",
+   "short": "FMP-Abschlussprüfungsreglement",
+   "title": "Reglement über die Abschlussprüfungen der Fachmaturität Pädagogik",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2427",
+   "versions": [
+    {
+     "from": "2008-12-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2427",
+     "sha256": "f4b7cf4c34cabbeff81f3e9e2c30a81f2eb650dffa7a0975446578b2e9b769f7"
+    }
+   ]
+  },
+  {
+   "slug": "10-2923",
+   "short": "RB 10.2923",
+   "title": "Verordnung über die Führung des Urner Forschungsinstituts Kulturen der Alpen als Hochschule",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2923",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2923",
+     "sha256": "b31a0bfef4c0dc9453086e33d8e77e21ca7cbe85b8cf818364d527d8666798eb"
+    }
+   ]
+  },
+  {
+   "slug": "10-2935",
+   "short": "RB 10.2935",
+   "title": "Verordnung über die Anerkennung privater universitärer Hochschulen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.2935",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.2935",
+     "sha256": "f5399512921c42a0c142deee582bc34d699aa62c4a9b9a7801dc89fdc9328623"
+    }
+   ]
+  },
+  {
+   "slug": "10-4111-sportverordnung",
+   "short": "Sportverordnung",
+   "title": "Verordnung über die Förderung des Sports",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.4111",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.4111",
+     "sha256": "310019113b86201277561380d1a72948742b0fce13be68a51f358148130b868b"
+    }
+   ]
+  },
+  {
+   "slug": "10-4113-sportreglement",
+   "short": "Sportreglement",
+   "title": "Reglement über die Förderung des Sports",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.4113",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.4113/versions/1092",
+     "sha256": "6533ebc51138681a99ed94f8aaf73c228a85f627623a3b4f534f2c2447eb502c"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.4113",
+     "sha256": "5ca244322cc8b8e1bc103fb7edd29c92165497a7627855456f3ac2d5dfbf071d"
+    }
+   ]
+  },
+  {
+   "slug": "10-5105-blnv",
+   "short": "BLNV",
+   "title": "Verordnung über Beiträge für den landwirtschaftlichen Naturschutz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5105",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5105",
+     "sha256": "d53e05dd2017394d59b05912d0e4e65ddb57f6bf4c46e999f5f687ea2b81bc43"
+    }
+   ]
+  },
+  {
+   "slug": "10-5106-blnr",
+   "short": "BLNR",
+   "title": "Reglement zur Verordnung über Beiträge für den landwirtschaftlichen Naturschutz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5106",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 31,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5106",
+     "sha256": "894b58f80f4923a0fd0e529de4d3f28688c1feb1dd0326414974abff88ec0e00"
+    }
+   ]
+  },
+  {
+   "slug": "10-5110",
+   "short": "RB 10.5110",
+   "title": "Reglement über den Schutz des Südufers des Urnersees",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5110",
+   "versions": [
+    {
+     "from": "2000-10-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5110",
+     "sha256": "fe098a05364ac2627bfbceba6ff5877a2e712f763a2f6dbbfb13101397cbf493"
+    }
+   ]
+  },
+  {
+   "slug": "10-5111",
+   "short": "RB 10.5111",
+   "title": "Reglement über den Schutz der Region Maderanertal und Fellital",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5111",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 28,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5111",
+     "sha256": "148d3e3fbad2d7084476bc53c251c7472c3409e068a3557c9722e53a655bf229"
+    }
+   ]
+  },
+  {
+   "slug": "10-5112",
+   "short": "RB 10.5112",
+   "title": "Reglement über den Schutz von Hoch- und Flachmooren und von Quellen auf dem Urnerboden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5112",
+   "versions": [
+    {
+     "from": "1988-06-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5112",
+     "sha256": "9f600ac2a1add995946b23ed7a5b9b692b28041b816876b02775e51697904c97"
+    }
+   ]
+  },
+  {
+   "slug": "10-5113",
+   "short": "RB 10.5113",
+   "title": "Reglement über den Schutz der Flach- und Übergangsmoore «Brunnen» und «Fliesmatt» inkl. Moorlehrpfad in der Gemeinde Andermatt",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5113",
+   "versions": [
+    {
+     "from": "2000-03-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5113",
+     "sha256": "c554663e2e9e435ec07ca2352389fcc10fd9f7831db5b3dbff0a69e7053bf800"
+    }
+   ]
+  },
+  {
+   "slug": "10-5114",
+   "short": "RB 10.5114",
+   "title": "Reglement über den Schutz der Moore und Trockenwiesen auf Gitschenen in der Gemeinde Isenthal",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5114",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5114",
+     "sha256": "c3c96024ae00724f4253353b92595c836debec2f3717c0ece23074e8c0a2e87a"
+    }
+   ]
+  },
+  {
+   "slug": "10-5115",
+   "short": "RB 10.5115",
+   "title": "Reglement über den Schutz des Gebiets Wilerschachen («Polenschachen») in der Gemeinde Erstfeld",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5115",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5115",
+     "sha256": "f8bc257ace57a4e1ad73c4035e9b5eb1ea603f6971711632aee72a6f95968267"
+    }
+   ]
+  },
+  {
+   "slug": "10-5116",
+   "short": "RB 10.5116",
+   "title": "Reglement über den Schutz renaturierter Bäche in der unteren Urner Reussebene",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5116",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5116",
+     "sha256": "faf962fd84b400392b8570c1417579428cfd8c22ade8175250b83d87c607af5f"
+    }
+   ]
+  },
+  {
+   "slug": "10-5117",
+   "short": "RB 10.5117",
+   "title": "Reglement über das Naturschutzgebiet Bäz in Andermatt",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5117",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5117",
+     "sha256": "691bf33f6bda9b3d2e37d6d6ce5f9af7b2159707c1a74c979c91196d4fc36a04"
+    }
+   ]
+  },
+  {
+   "slug": "10-5118",
+   "short": "RB 10.5118",
+   "title": "Reglement über den Schutz der Gewässer im Gebiet Uri Mitte zwischen Silenen und Göschenen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5118",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5118",
+     "sha256": "7da9dcdbbb4f05ce02e1347958fee1dcad2bb094466a3e85e50ba6ce4f426e0a"
+    }
+   ]
+  },
+  {
+   "slug": "10-5119",
+   "short": "RB 10.5119",
+   "title": "Reglement über den Schutz der Gewässer im Urserntal",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5119",
+   "versions": [
+    {
+     "from": "2015-06-02",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5119",
+     "sha256": "b6cb28ae1454b03613581e5805836e12c327502358475c43e0f32a271869ba9f"
+    }
+   ]
+  },
+  {
+   "slug": "10-5122",
+   "short": "RB 10.5122",
+   "title": "Reglement über den Schutz der Gewässer im Gebiet Uri Nord zwischen dem Urnersee und Erstfeld",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5122",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5122",
+     "sha256": "2b96a480c3e7de6bd03477b18ec44925d91558b2abd751e919a98038f11c8ac7"
+    }
+   ]
+  },
+  {
+   "slug": "10-5126",
+   "short": "RB 10.5126",
+   "title": "Reglement über den Schutz der Aue Widen und weiterer Lebensräume entlang der Furkareuss zwischen Realp und Hospental",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5126",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5126",
+     "sha256": "7c9304bdcf1a3d30cac4f7143ad390b12dd852aa260ed5c72dff8a90141814b7"
+    }
+   ]
+  },
+  {
+   "slug": "10-5127",
+   "short": "RB 10.5127",
+   "title": "Reglement über den Schutz der Aue Rüti am Vorderschächen in der Gemeinde Unterschächen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5127",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5127",
+     "sha256": "125d9daaee9c690e59e3b7299b72f57079a6a1b9f5e5f744ba9e17100d073d62"
+    }
+   ]
+  },
+  {
+   "slug": "10-5131",
+   "short": "RB 10.5131",
+   "title": "Reglement über den Schutz wildwachsender Pilze",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5131",
+   "versions": [
+    {
+     "from": "2007-05-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5131",
+     "sha256": "05fb2a6d5bee89ca942db2bf3bef9e90a55ca1b55b005ee46c6ebfc7e3cad355"
+    }
+   ]
+  },
+  {
+   "slug": "10-5132",
+   "short": "RB 10.5132",
+   "title": "Reglement über den Schutz der Landschaft Unteralptal in der Gemeinde Andermatt",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5132",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5132",
+     "sha256": "be64d70b8d04d149016d04de402f2e27b785d991fc11595a66600b736123ba6c"
+    }
+   ]
+  },
+  {
+   "slug": "10-5133",
+   "short": "RB 10.5133",
+   "title": "Reglement über den Schutz der Flachmoore auf dem Oberalppass in der Gemeinde Andermatt",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5133",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5133",
+     "sha256": "28b422302a92bcdbc92cd47351bf59ff6a10e9e69676265d02fcfc76fdaa1995"
+    }
+   ]
+  },
+  {
+   "slug": "10-5134",
+   "short": "RB 10.5134",
+   "title": "Reglement über den Schutz des Amphibienlaichgebiets Bodenwald in der Gemeinde Attinghausen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5134",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5134",
+     "sha256": "917960b2890a9df5a9bd67e0df58a351c7a6fd6ad010abfd8d0b7aa456fb6d7c"
+    }
+   ]
+  },
+  {
+   "slug": "10-5135",
+   "short": "RB 10.5135",
+   "title": "Reglement über den Schutz des BLN-Objekts Scheidnössli und angrenzender Lebensräume in der Gemeinde Erstfeld",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.5135",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.5135",
+     "sha256": "d6be6c53c8eb953e8343e5e9a46b41c683a600806c44da7ba7436998e0ea016b"
+    }
+   ]
+  },
+  {
+   "slug": "10-6115",
+   "short": "RB 10.6115",
+   "title": "Verordnung über die Unterstützung der Kantonsbibliothek Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.6115",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.6115",
+     "sha256": "59e521dbe0ec45f77162b69492b91e0df2b678251e76ae01e0c9672aaa1852d3"
+    }
+   ]
+  },
+  {
+   "slug": "10-6212",
+   "short": "RB 10.6212",
+   "title": "Archivreglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.6212",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.6212",
+     "sha256": "5ad5e229eb9ee1cd1ec853e584408e2f3688f7a7c06c741e1bfffd035659b71e"
+    }
+   ]
+  },
+  {
+   "slug": "10-6240",
+   "short": "RB 10.6240",
+   "title": "Reglement über die Umsetzung des Covid-19-Gesetzes im Kulturbereich und der Covid-19-Kulturverordnung im Kanton Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.6240",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.6240",
+     "sha256": "4977bfd67eb37212036c36b2b7bee5c57147a859376a05b0afa068d0951236fd"
+    }
+   ]
+  },
+  {
+   "slug": "10-8211",
+   "short": "RB 10.8211",
+   "title": "Verordnung über die Förderung von Kunst und Bau",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/10.8211",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/10.8211",
+     "sha256": "14b3b7185f8c39d59716c4909a9d7776a6030a19bbb8188fdb97a20ee01def3d"
+    }
+   ]
+  },
+  {
+   "slug": "20-1101",
+   "short": "RB 20.1101",
+   "title": "Verordnung über die Errichtung eines kantonalen Einigungsamtes",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.1101",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 20,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.1101",
+     "sha256": "c6aaf055a2eaaa811c8c8783c7c0409f49d0f976924f5b832b3c02257bfe5520"
+    }
+   ]
+  },
+  {
+   "slug": "20-1111-kav",
+   "short": "KAV",
+   "title": "Kantonale Arbeitsverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.1111",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.1111",
+     "sha256": "3f6c0768296913c6407bb401591aca1ecb540208a71b280e365af5ba95b1fe22"
+    }
+   ]
+  },
+  {
+   "slug": "20-1311",
+   "short": "RB 20.1311",
+   "title": "Reglement über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.1311",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 50,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.1311",
+     "sha256": "00bf9fc794d5a781153434f19556d1ce506fafb5074420209f7011db8927f47c"
+    }
+   ]
+  },
+  {
+   "slug": "20-1321",
+   "short": "RB 20.1321",
+   "title": "Reglement über den Normalarbeitsvertrag für landwirtschaftliche Arbeitnehmer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.1321",
+   "versions": [
+    {
+     "from": "1998-05-01",
+     "units": 25,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.1321",
+     "sha256": "d07660b7aa37af977b2da2d740b757423eeadbabb65105badbfc2f60765936ed"
+    }
+   ]
+  },
+  {
+   "slug": "20-1515",
+   "short": "RB 20.1515",
+   "title": "Reglement zum Bundesgesetz über die minimalen Arbeits- und Lohnbedingungen für in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen (Entsendegesetz, EntsG)",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.1515",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.1515",
+     "sha256": "5911900287e1ac3115a452a8be2cbb8d9d243318f8b93bd31ec05c530fdf2693"
+    }
+   ]
+  },
+  {
+   "slug": "20-2202",
+   "short": "RB 20.2202",
+   "title": "Verordnung zum Bundesgesetz über die Krankenversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2202",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 33,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2202",
+     "sha256": "cdfd8d9a8a9e70cf1f667357c0a538e9dc37fbbce4b0f21ed2dad44d8ab0edcd"
+    }
+   ]
+  },
+  {
+   "slug": "20-2204-zulassungsreglement",
+   "short": "Zulassungsreglement",
+   "title": "Reglement über die Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2204",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2204/versions/485",
+     "sha256": "497a739abd0b8ce2d3d10d251524ec24c46129ccfa6b0fdd5bf927477a54a3bb"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2204",
+     "sha256": "c0738e728f67014021dcbdaff5074ad4e84cce47fc64a2aa1d18af3ade444777"
+    }
+   ]
+  },
+  {
+   "slug": "20-2210-pramienverbilligungsfonds",
+   "short": "Prämienverbilligungsfonds",
+   "title": "Reglement über den Fonds Prämienverbilligung für die Krankenpflege-Grundversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2210",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2210",
+     "sha256": "ba4412cb0f855352f6ddc4b0dfab55d6a2d78145fc42dd594b76a88072f0df5a"
+    }
+   ]
+  },
+  {
+   "slug": "20-2211",
+   "short": "RB 20.2211",
+   "title": "Reglement über die Nichtbezahlung von Prämien und Kostenbeteiligungen für die Krankenpflege-Grundversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2211",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2211",
+     "sha256": "e197f2bf11798a0616088ef170dcbc6e4978ec02c1ffeea0d7602f1e07a8525d"
+    }
+   ]
+  },
+  {
+   "slug": "20-2213-pramienverbilligungsreglement-pvr",
+   "short": "Prämienverbilligungsreglement, PVR",
+   "title": "Reglement über die Prämienverbilligung für die Krankenpflege-Grundversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2213",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2213",
+     "sha256": "311da45697f268a6714527bea64c4a3e40cf80ff4e74a7648e3509ad45009854"
+    }
+   ]
+  },
+  {
+   "slug": "20-2215",
+   "short": "RB 20.2215",
+   "title": "Verordnung über die Einführung der Bundesgesetzgebung über die Unfallversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2215",
+   "versions": [
+    {
+     "from": "1984-01-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2215",
+     "sha256": "a17f6d646be01670602d285e0205d23c9ef2d512790293d6374c5030225973f5"
+    }
+   ]
+  },
+  {
+   "slug": "20-2216",
+   "short": "RB 20.2216",
+   "title": "Reglement über die Einführung der Bundesgesetzgebung über die Unfallversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2216",
+   "versions": [
+    {
+     "from": "1984-01-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2216",
+     "sha256": "3fd13a1cfc2bdc04db6deb61898bccd0551f18fb0c37eef58d9b83cfe82e82d2"
+    }
+   ]
+  },
+  {
+   "slug": "20-2221",
+   "short": "RB 20.2221",
+   "title": "Verordnung über die Rechtspflege in der Unfallversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2221",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2221",
+     "sha256": "c047e582e83e62b116ad59ada4eb7b245a9374f2b7df89695b9d04d661a093f9"
+    }
+   ]
+  },
+  {
+   "slug": "20-2235",
+   "short": "RB 20.2235",
+   "title": "Verordnung über die Akut- und Übergangspflege",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2235",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2235",
+     "sha256": "d18e9b7b4637d8a582595fbbde90a56e71c9a7b31df559e1a26e2afba73fd7d5"
+    }
+   ]
+  },
+  {
+   "slug": "20-2237",
+   "short": "RB 20.2237",
+   "title": "Verordnung zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2237",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2237",
+     "sha256": "1fb5d395fbf31662f86e863ebf4c57c4d6cb2ad6a2222ca41e6c9862d762c2a4"
+    }
+   ]
+  },
+  {
+   "slug": "20-2239",
+   "short": "RB 20.2239",
+   "title": "Reglement zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2239",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2239",
+     "sha256": "2751c855e111918e196e2e4ccc330d34ea6f6c760feddbc2648c29e816eacf7a"
+    }
+   ]
+  },
+  {
+   "slug": "20-2311-arbeitsmassnahmeverordnung-amv",
+   "short": "Arbeitsmassnahmeverordnung, AMV",
+   "title": "Verordnung über die Arbeitsvermittlung, die Arbeitsbeschaffung und die Arbeitslosenversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2311",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2311",
+     "sha256": "84c50ebecbf2cfd7f8d9f8e7f994d1e59a880e7af3573de638e72c96750bce21"
+    }
+   ]
+  },
+  {
+   "slug": "20-2313-arbeitsmassnahmereglement-amr",
+   "short": "Arbeitsmassnahmereglement, AMR",
+   "title": "Reglement über die ergänzenden kantonalen Massnahmen zur beruflichen Wiedereingliederung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2313",
+   "versions": [
+    {
+     "from": "2007-02-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2313",
+     "sha256": "8d4d2416f67e2144f49674ff32250c387388319b2877fffd473e050101408f15"
+    }
+   ]
+  },
+  {
+   "slug": "20-2315",
+   "short": "RB 20.2315",
+   "title": "Reglement für die kantonale Arbeitslosenkasse Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2315",
+   "versions": [
+    {
+     "from": "1984-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2315",
+     "sha256": "ea9b16f725d0ee084ee7a20bb710bbffab1f958259dedef86087a1ad78f817a7"
+    }
+   ]
+  },
+  {
+   "slug": "20-2332",
+   "short": "RB 20.2332",
+   "title": "Verordnung über die Patientenbeteiligung in der Langzeitpflege",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2332",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2332",
+     "sha256": "52fe36644d4a24e766b24e56bedea3beeb8aa2c11353311ced0673572691033a"
+    }
+   ]
+  },
+  {
+   "slug": "20-2411",
+   "short": "RB 20.2411",
+   "title": "Verordnung über die Sozialversicherungsstelle Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2411",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2411",
+     "sha256": "a27ce848923f890436128896e2f9b9a54e5917d71b197378f4a3da35b44c04b7"
+    }
+   ]
+  },
+  {
+   "slug": "20-2413",
+   "short": "RB 20.2413",
+   "title": "Reglement der kantonalen Rekurskommission für die Alters- und Hinterlassenenversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2413",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2413",
+     "sha256": "3fcb2d259f3db681e06b1139bffb0b07d62d75d73a89a4180f682cc17c05d320"
+    }
+   ]
+  },
+  {
+   "slug": "20-2425",
+   "short": "RB 20.2425",
+   "title": "Verordnung über die Ergänzungsleistungen zur AHV/IV",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2425",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2425",
+     "sha256": "1d56ed0451ee01301992fb57205672d89e42777bdd1ea4ef1782724c600641c9"
+    }
+   ]
+  },
+  {
+   "slug": "20-2435",
+   "short": "RB 20.2435",
+   "title": "Reglement über die Vergütung von Krankheits- und Behinderungskosten bei Ergänzungsleistungen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2435",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2435",
+     "sha256": "72de207c5e05153a0ac92df7a424fc2219411130cb19a232c44c34ae34e1ff86"
+    }
+   ]
+  },
+  {
+   "slug": "20-2513-fzr",
+   "short": "FZR",
+   "title": "Reglement zum Gesetz über die Familienzulagen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2513",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2513/versions/508",
+     "sha256": "2389c0b1e9cb9adbe379a26465158864be92e22d4f979379cfcc965d4bbb9cc4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2513",
+     "sha256": "87bb91d21e1c7b0495883cd76bc5bf791197a9e27cf6c3fa8b14c66ccfdaf0a8"
+    }
+   ]
+  },
+  {
+   "slug": "20-2521",
+   "short": "RB 20.2521",
+   "title": "Verordnung zum Bundesgesetz über die Familienzulagen in der Landwirtschaft",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2521",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2521",
+     "sha256": "c22a7bc0676e47b8be3d827e3bbf4aa0be0afb46fc83ef459a1e80fc7bf45e25"
+    }
+   ]
+  },
+  {
+   "slug": "20-2611",
+   "short": "RB 20.2611",
+   "title": "Kantonale Vollziehungsverordnung zum Bundesgesetz über die Erwerbsausfallentschädigungen an Wehrpflichtige",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2611",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2611",
+     "sha256": "fc408e57632781cd1eec1c7b7697277396d521eddbd2065eb21153a60f4c299a"
+    }
+   ]
+  },
+  {
+   "slug": "20-2715",
+   "short": "RB 20.2715",
+   "title": "Reglement zum Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenversicherung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.2715",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.2715",
+     "sha256": "666b862eb78615133921ac6e8aed657231d1e9f40c88e9be8e30c777ca0bfbd2"
+    }
+   ]
+  },
+  {
+   "slug": "20-3223-ksuv",
+   "short": "KSUV",
+   "title": "Verordnung über das Kantonsspital Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3223",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3223",
+     "sha256": "3e1586e31108943df6416bd69c2ac295fe6fd2e48badf30f48241efde5e70550"
+    }
+   ]
+  },
+  {
+   "slug": "20-3311",
+   "short": "RB 20.3311",
+   "title": "Kantonale Vollziehungsverordnung zum Bundesgesetz vom 19. März 1965 über Massnahmen zur Förderung des Wohnungsbaues",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3311",
+   "versions": [
+    {
+     "from": "1983-03-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3311",
+     "sha256": "33a92479382109ee431dc220194dc4d1c2c2b47dc3ab4e8a710e4a1d7b603092"
+    }
+   ]
+  },
+  {
+   "slug": "20-3321",
+   "short": "RB 20.3321",
+   "title": "Verordnung über die Verbesserung der Wohnverhältnisse in Berggebieten",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3321",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 30,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3321",
+     "sha256": "cea0b46f4650b1d4a593f830b57ff65aa9e2adeba19ed6d5737e114d5c2d44c8"
+    }
+   ]
+  },
+  {
+   "slug": "20-3325-rvw",
+   "short": "RVW",
+   "title": "Reglement über die Verbesserung der Wohnverhältnisse in Berggebieten",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3325",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 26,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3325",
+     "sha256": "50c52ff7d373ba3b744c82d0ccae12192e2d932e4caa51d02ab98cf2fadc1e6c"
+    }
+   ]
+  },
+  {
+   "slug": "20-3331",
+   "short": "RB 20.3331",
+   "title": "Verordnung über die Wohnbau- und Eigentumsförderung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3331",
+   "versions": [
+    {
+     "from": "1994-04-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3331",
+     "sha256": "80c57b250964ce571ddce2323a79069589b3ae774c8e1b7fc7549116ab9d461b"
+    }
+   ]
+  },
+  {
+   "slug": "20-3425-bsr",
+   "short": "BSR",
+   "title": "Reglement über die Baubeiträge nach dem Sozialhilfegesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3425",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3425",
+     "sha256": "0de6c152b12ba77e3d7ccb1c04421b1eec25854f0eb2593109812762c8fd8500"
+    }
+   ]
+  },
+  {
+   "slug": "20-3447",
+   "short": "RB 20.3447",
+   "title": "Verordnung über die Institutionen der Behindertenhilfe",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3447",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3447",
+     "sha256": "7ecb7a659dbc6476c871005acd2762e39eed1f788a0135b33f1ea411f7b62bed"
+    }
+   ]
+  },
+  {
+   "slug": "20-3449",
+   "short": "RB 20.3449",
+   "title": "Verordnung über Betreuungseinrichtungen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3449",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3449",
+     "sha256": "8abfb53ba377b1eb84dbf2534d31a9a21518e4f959a0e3507887d2abd893f494"
+    }
+   ]
+  },
+  {
+   "slug": "20-3455",
+   "short": "RB 20.3455",
+   "title": "Reglement über die Schwangerschafts-, Ehe- und Familienberatungsstellen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3455",
+   "versions": [
+    {
+     "from": "1990-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3455",
+     "sha256": "2a5e6dd1a2caf815dd19ebf9b0a6c2242ddcf351aee44aff158cca3563fb80f2"
+    }
+   ]
+  },
+  {
+   "slug": "20-3456-ohr",
+   "short": "OHR",
+   "title": "Opferhilfereglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/20.3456",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/20.3456",
+     "sha256": "6d3ac99b1b35eab7fa1073f872f0054eb30188a560a0278e7cafc7f2eb8fa486"
+    }
+   ]
+  },
+  {
+   "slug": "30-2115-heilmittelreglement",
+   "short": "Heilmittelreglement",
+   "title": "Reglement über den Vollzug des Heilmittelgesetzes",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2115",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2115",
+     "sha256": "b93f01faeadb530c5ba3b9e56ad5d1c8bd1595038456e90e4c124e060a2a819a"
+    }
+   ]
+  },
+  {
+   "slug": "30-2117",
+   "short": "RB 30.2117",
+   "title": "Reglement über die Berufe und Organisationen im Gesundheitswesen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2117",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 29,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2117",
+     "sha256": "02421b830cf2a837e9db213a9b5737b26d8edf112e34989113f71def9ddd3019"
+    }
+   ]
+  },
+  {
+   "slug": "30-2122",
+   "short": "RB 30.2122",
+   "title": "Reglement über die amtlichen Medizinalpersonen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2122",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2122/versions/864",
+     "sha256": "ca3bad2e8b559a50615bcd082909250d6843512e274a845d1ba0bb6e891b09b1"
+    },
+    {
+     "from": "2018-09-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2122",
+     "sha256": "475a608ca5f988ed92d960f6056166420f8d68be82971f6dda56da4007477f01"
+    }
+   ]
+  },
+  {
+   "slug": "30-2135",
+   "short": "RB 30.2135",
+   "title": "Verordnung über die Bereitschaftsentschädigung für Hebammen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2135",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2135",
+     "sha256": "7f1c5215338828b1d46c3aa79572c6453ac6a6f801070c65c2e07fafc5013caa"
+    }
+   ]
+  },
+  {
+   "slug": "30-2145",
+   "short": "RB 30.2145",
+   "title": "Reglement zum Schutz vor Passivrauchen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2145",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2145",
+     "sha256": "5ce20a1ebcd57060beb6c5cdc679b80f31886a2fefb114d240a892722154f2e7"
+    }
+   ]
+  },
+  {
+   "slug": "30-2215-epidemienreglement",
+   "short": "Epidemienreglement",
+   "title": "Reglement über den Vollzug der eidgenössischen Epidemiengesetzgebung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2215",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2215",
+     "sha256": "99c153a52cde7497c283f3e395f2372f7a3c18137b6bb59bbb8610d5d95785db"
+    }
+   ]
+  },
+  {
+   "slug": "30-2311-klmv",
+   "short": "KLMV",
+   "title": "Kantonale Lebensmittelverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2311",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2311",
+     "sha256": "693595c39e0d332e2c9fc2862ee42dc9a09cc2abbfd0bc9ece4af1a27adfd48c"
+    }
+   ]
+  },
+  {
+   "slug": "30-2325",
+   "short": "RB 30.2325",
+   "title": "Reglement über die Gebühren der Fleischschauer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.2325",
+   "versions": [
+    {
+     "from": "1994-06-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.2325",
+     "sha256": "b58cd3225730c9c6618d161d9bcd5f5ad8a616fb7fb913e279f266dbcc1c7498"
+    }
+   ]
+  },
+  {
+   "slug": "30-3115",
+   "short": "RB 30.3115",
+   "title": "Reglement zum Gesetz über den Feuerschutz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.3115",
+   "versions": [
+    {
+     "from": "1997-03-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.3115",
+     "sha256": "f36e3a70ae9a53a9d0a4ac11c00fb8ffd382a8732fbdeeb2cdf40ffae8545101"
+    }
+   ]
+  },
+  {
+   "slug": "30-3117-stutzpunktfeuerwehrreglement-sfwr",
+   "short": "Stützpunktfeuerwehrreglement, SFWR",
+   "title": "Reglement über die Stützpunktfeuerwehren",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.3117",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.3117",
+     "sha256": "aba9aa134538dba7cfe026d82237c60c6f510d5cf48a2e4be5ba4d3e349e5173"
+    }
+   ]
+  },
+  {
+   "slug": "30-3312",
+   "short": "RB 30.3312",
+   "title": "Verordnung über die Beitragspflicht sowie die Verwendung der Löschsteuer und freiwilligen Beiträge der im Kanton Uri arbeitenden Feuerversicherungs-Gesellschaften",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.3312",
+   "versions": [
+    {
+     "from": "1959-07-06",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.3312",
+     "sha256": "760e0b23a20c3f70024d15e48881e8ed6319b0c0a5d1dc3e044cb39983037a3e"
+    }
+   ]
+  },
+  {
+   "slug": "30-3313-ffr",
+   "short": "FFR",
+   "title": "Reglement über den kantonalen Feuerlöschfonds",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.3313",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.3313",
+     "sha256": "b5bf8962e1937420e5c5c6dac3f225ec10dcf5989c7837443da47f9af0d7a7c3"
+    }
+   ]
+  },
+  {
+   "slug": "30-4111",
+   "short": "RB 30.4111",
+   "title": "Verordnung zum Bundesgesetz über explosionsgefährliche Stoffe",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.4111",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 10,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.4111",
+     "sha256": "2fb828ac7cd78b32496fd4b1b69739ed3e08f1513811e226cddb67a4d3f38c50"
+    }
+   ]
+  },
+  {
+   "slug": "30-4321",
+   "short": "RB 30.4321",
+   "title": "Kantonale Vollziehungsverordnung zum Bundesgesetz über die Sicherheit von technischen Einrichtungen und Geräten",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.4321",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.4321",
+     "sha256": "53f20ce216c7ccd895ad95548cbb08ac5f9704b0708b568a0a5a6b0af5850427"
+    }
+   ]
+  },
+  {
+   "slug": "30-4415",
+   "short": "RB 30.4415",
+   "title": "Reglement zur Bundesgesetzgebung über Waffen, Waffenzubehör und Munition",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/30.4415",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/30.4415",
+     "sha256": "dd95005ec0b698bfa4f2c5c02a507bda7c37864faf64e6e12c51193487cc5e9d"
+    }
+   ]
+  },
+  {
+   "slug": "40-1115-rpbg",
+   "short": "RPBG",
+   "title": "Reglement zum Planungs- und Baugesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1115",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 59,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1115/versions/1045",
+     "sha256": "8600c1f305b941b6de7f96506c8de75ed90a3ed90ffa4ce4fbaefa908dd79fe9"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 72,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1115",
+     "sha256": "772273dd9295409d9e2c2b7e829416b2b162aee7a7f280ba11b6a5453fb1926a"
+    }
+   ]
+  },
+  {
+   "slug": "40-1227",
+   "short": "RB 40.1227",
+   "title": "Reglement über die Kommission für das Reussdelta",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1227",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1227",
+     "sha256": "b07c870c865dd6371e41cf2099c288148e68dfcd30aacfdc96f27fcedf92d0ea"
+    }
+   ]
+  },
+  {
+   "slug": "40-1405",
+   "short": "RB 40.1405",
+   "title": "Reglement über die Bemessung der Kantonshilfe bei Elementarschäden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1405",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.1405",
+     "sha256": "de31693194b39940a0e04585e175ce375c6bce3c1158556ee4b4f8f39dd6d806"
+    }
+   ]
+  },
+  {
+   "slug": "40-2111-kwv",
+   "short": "KWV",
+   "title": "Kantonale Waldverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.2111",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 59,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.2111",
+     "sha256": "5a93dc12fd4a4e4bb054ff96a91961aaf227c8cb79cf024a45b6b77c257b0621"
+    }
+   ]
+  },
+  {
+   "slug": "40-2115",
+   "short": "RB 40.2115",
+   "title": "Kantonales Waldreglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.2115",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.2115",
+     "sha256": "ed6c537abbe71967e97c6aab743b4ab2f90240300d3128fa5d1259c884036e0b"
+    }
+   ]
+  },
+  {
+   "slug": "40-2211",
+   "short": "RB 40.2211",
+   "title": "Verordnung über das Beerensammeln",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.2211",
+   "versions": [
+    {
+     "from": "1932-07-15",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.2211",
+     "sha256": "456bd0609be1f39b96171c97a05d7c572f6a75bd90fe5eb9917d5e438f0307cd"
+    }
+   ]
+  },
+  {
+   "slug": "40-3111-jagdverordnung-kjsv",
+   "short": "Jagdverordnung, KJSV",
+   "title": "Verordnung zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3111",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 57,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3111",
+     "sha256": "0be080572afef3044c0e4c2af33334c16c6c87cd6ba70e718157c49d6d39a63c"
+    }
+   ]
+  },
+  {
+   "slug": "40-3121-jagdbetriebsvorschriften",
+   "short": "Jagdbetriebsvorschriften",
+   "title": "Reglement über die Ausübung der Jagd",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3121",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 54,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3121",
+     "sha256": "df94ec87a27eafd852e5714067d9824a5b4a524bb5539b7c40424391fdf72b0e"
+    }
+   ]
+  },
+  {
+   "slug": "40-3152",
+   "short": "RB 40.3152",
+   "title": "Reglement über den Jagdlehrgang und die Jägerprüfung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3152",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 31,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3152",
+     "sha256": "044b11bc9418d01bebae715d5050d280d9af83264f622d5f5c78f20e43f0f75d"
+    }
+   ]
+  },
+  {
+   "slug": "40-3154",
+   "short": "RB 40.3154",
+   "title": "Reglement über die Kontrolle und das Einschiessen von Jagdwaffen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3154",
+   "versions": [
+    {
+     "from": "2020-03-15",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3154",
+     "sha256": "021d43185fbc7baa4bda68108a240d112d54e87feba0bd915ab033f728c0f9a7"
+    }
+   ]
+  },
+  {
+   "slug": "40-3156-hegereglement",
+   "short": "Hegereglement",
+   "title": "Reglement über die Hege",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3156",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3156",
+     "sha256": "f0066e90fe2f6b9e3340c1b6590610c92de2fa0a70f150b11b7e4f371de195e2"
+    }
+   ]
+  },
+  {
+   "slug": "40-3161",
+   "short": "RB 40.3161",
+   "title": "Wildschadenreglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3161",
+   "versions": [
+    {
+     "from": "2017-03-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3161",
+     "sha256": "6ae3dfe3541e837645b68a04cf87c773b8b6166474e306bdd10388f373ff9d3e"
+    }
+   ]
+  },
+  {
+   "slug": "40-3211",
+   "short": "RB 40.3211",
+   "title": "Verordnung über die Fischerei",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3211",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 55,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3211",
+     "sha256": "f3fcf97bd21c93fa0038fddca60bd9a89e24d45ff5c3dfdfa9add3dc85f219ec"
+    }
+   ]
+  },
+  {
+   "slug": "40-3215",
+   "short": "RB 40.3215",
+   "title": "Fischereireglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3215",
+   "versions": [
+    {
+     "from": "2024-12-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3215",
+     "sha256": "9f5ae282e62005e0bb689b384746e92758b89300a7247659708dccf3cb604830"
+    }
+   ]
+  },
+  {
+   "slug": "40-3217",
+   "short": "RB 40.3217",
+   "title": "Reglement über den Fischereifonds",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.3217",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.3217",
+     "sha256": "37d6471633e399a50300c3bb91b49e1cc2c9bc7948eeddc079a20c26f0261bd4"
+    }
+   ]
+  },
+  {
+   "slug": "40-4105-gnv",
+   "short": "GNV",
+   "title": "Gewässernutzungsverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.4105",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 24,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.4105",
+     "sha256": "7352cef4fa5d749981e22aae6df6a48cb933a251b1b081ba48ade8b813120e49"
+    }
+   ]
+  },
+  {
+   "slug": "40-4111",
+   "short": "RB 40.4111",
+   "title": "Verordnung über die Ausbeutung öffentlicher Gewässer",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.4111",
+   "versions": [
+    {
+     "from": "1993-04-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.4111",
+     "sha256": "70ddcabaa21764b083fe0522ca9802370eb789d955d30bff3325e9ae6037ddfb"
+    }
+   ]
+  },
+  {
+   "slug": "40-4325-schadenwehrverordnung",
+   "short": "Schadenwehrverordnung",
+   "title": "Verordnung über die Schadenwehr",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.4325",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 34,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.4325",
+     "sha256": "47ac165b8f952afcaf085954d825f1fae8e5b923dba1b26a59f32c9c910ab784"
+    }
+   ]
+  },
+  {
+   "slug": "40-4328-schadenwehrreglement",
+   "short": "Schadenwehrreglement",
+   "title": "Reglement über die Entschädigung der Schadenwehr",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.4328",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.4328",
+     "sha256": "ec55ac9ee9b70000ea7be5e6da3252cfc6573db407a3634d21a2e0906de51c27"
+    }
+   ]
+  },
+  {
+   "slug": "40-4335-snr",
+   "short": "SNR",
+   "title": "Reglement über den Fonds Schadenwehr Nationalstrassen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.4335",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.4335",
+     "sha256": "b73b1bf7013ac1414b71d839e6edfb20a815ef6d5f617dae953c43ed059774a6"
+    }
+   ]
+  },
+  {
+   "slug": "40-6111-vsg",
+   "short": "VSG",
+   "title": "Verordnung zum Stromversorgungsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.6111",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.6111",
+     "sha256": "96efb8f9e0007e49ebe6c03c1cffc2006359b39c6214583388a251566dbc07f2"
+    }
+   ]
+  },
+  {
+   "slug": "40-7015-kuv",
+   "short": "KUV",
+   "title": "Kantonale Umweltverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7015",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 35,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7015",
+     "sha256": "131653d857b997ebbb114c0829dc83d41275a2a7a71ed99dc191c018360bc17c"
+    }
+   ]
+  },
+  {
+   "slug": "40-7017-uvpr",
+   "short": "UVPR",
+   "title": "Reglement über die Umweltverträglichkeitsprüfung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7017",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7017",
+     "sha256": "89e6c5a9c5c00f091921808677f4e89ff2c6e666fc47c1e26863c32302078fed"
+    }
+   ]
+  },
+  {
+   "slug": "40-7025-rgwp",
+   "short": "RGWP",
+   "title": "Reglement über die Generelle Wasserversorgungsplanung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7025",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7025",
+     "sha256": "61dc44292d05de30630e470a0b19e5855a99fb433921cb91c5d35e9afeb42358"
+    }
+   ]
+  },
+  {
+   "slug": "40-7040",
+   "short": "RB 40.7040",
+   "title": "Reglement über die Aufgaben und Zuständigkeiten in der Chemikaliengesetzgebung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7040",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7040",
+     "sha256": "ad3e9bf322d40cfacc8f182faeb77e5f4d54fa004697c031dd2ffeb8830bd141"
+    }
+   ]
+  },
+  {
+   "slug": "40-7110",
+   "short": "RB 40.7110",
+   "title": "Reglement zur Partikelfilterpflicht für stationäre, dieselbetriebene Maschinen, Geräte und Motoren",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7110",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 8,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7110",
+     "sha256": "0bc15be3098163682af483dc325c9931654d5dd62e161340b06929c936a13343"
+    }
+   ]
+  },
+  {
+   "slug": "40-7115-smog-reglement",
+   "short": "Smog-Reglement",
+   "title": "Reglement über zeitlich begrenzte Sofortmassnahmen bei gesundheitsgefährdenden Luftbelastungen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7115",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 12,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7115",
+     "sha256": "da013719034507b956d6042b74e14b1a4414ee6b74488921f0064a45296a5387"
+    }
+   ]
+  },
+  {
+   "slug": "40-7213-env",
+   "short": "EnV",
+   "title": "Energieverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7213",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 37,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7213",
+     "sha256": "35f2a7b0412b38b6ca71460932b9fd728cc61337c7b85cfab17442e0f8d2e35f"
+    }
+   ]
+  },
+  {
+   "slug": "40-7215-enr",
+   "short": "EnR",
+   "title": "Energiereglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7215",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 39,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7215/versions/1057",
+     "sha256": "362197b54c35d203372e523c8f6d197217557ab0f66d6b2bed00cf401bb0ab9b"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7215",
+     "sha256": "95b4fb7fd66386b8165719304c696d0a02a801f04db7726a300391db49520f5b"
+    }
+   ]
+  },
+  {
+   "slug": "40-7219",
+   "short": "RB 40.7219",
+   "title": "Reglement über den Fonds Förderprogramm Energie Uri",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7219",
+   "versions": [
+    {
+     "from": "2018-10-23",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/40.7219",
+     "sha256": "82e700bbadee24850ceb154022887793a485e49a2da7ad6ec795587c3c7fcdf5"
+    }
+   ]
+  },
+  {
+   "slug": "50-1113-strr",
+   "short": "StrR",
+   "title": "Strassenreglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1113",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 5,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1113",
+     "sha256": "c0047781c1778487624b1da6c2a69a99e2f54fe81de4707279d49bc16bc2fc5f"
+    }
+   ]
+  },
+  {
+   "slug": "50-1133",
+   "short": "RB 50.1133",
+   "title": "Reglement über das Verfahren zum freihändigen Landerwerb für den Nationalstrassenbau",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1133",
+   "versions": [
+    {
+     "from": "1969-06-16",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1133",
+     "sha256": "1e11f0d358e2771c60a514cd2025701f76cbee62954e2bdb5c54271224e7a0df"
+    }
+   ]
+  },
+  {
+   "slug": "50-1135",
+   "short": "RB 50.1135",
+   "title": "Reglement über das Amt für Betrieb Nationalstrassen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1135",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1135/versions/1093",
+     "sha256": "484d7f39bb12abda7686b4dea287c3d06e36c98987b0d0a0e7f37913f8b21b30"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1135",
+     "sha256": "fead5bdc740a32505e47096bc7272d476f06dbe066297464139b525eb682b85a"
+    }
+   ]
+  },
+  {
+   "slug": "50-1138-rbs",
+   "short": "RBS",
+   "title": "Reglement über den Betrieb des Schwerverkehrszentrums",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1138",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 16,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1138",
+     "sha256": "676123ec18b1049a7abe2a4225614c82b2f8eb211f755efeb5537dc34868e8a5"
+    }
+   ]
+  },
+  {
+   "slug": "50-1165",
+   "short": "RB 50.1165",
+   "title": "Reglement über den Fonds «Weg der Schweiz»",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1165",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1165",
+     "sha256": "3c411ab172e9933707dd70ade75c24aba358dc0fde5096ff74489c23d26c10ae"
+    }
+   ]
+  },
+  {
+   "slug": "50-1311",
+   "short": "RB 50.1311",
+   "title": "Verordnung über den Strassenverkehr",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1311",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 31,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1311",
+     "sha256": "bb0997745f72d581e6dd89e06e9fdcc5babd6deceb83059e681cbe331a6c925b"
+    }
+   ]
+  },
+  {
+   "slug": "50-1315",
+   "short": "RB 50.1315",
+   "title": "Reglement über die kantonale Bewilligung nach der Personenbeförderungskonzession des Bundes",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1315",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1315",
+     "sha256": "9776af2ceaadb48015e5cc472d270c50dd20970aaa2b486eb1a57f060064e9f3"
+    }
+   ]
+  },
+  {
+   "slug": "50-1413",
+   "short": "RB 50.1413",
+   "title": "Verordnung über die Strassenverkehrssteuern",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1413",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1413",
+     "sha256": "e7088f14062c13322091e56a0c835384830f592f7270c5b726f9ba66459d4578"
+    }
+   ]
+  },
+  {
+   "slug": "50-1421-perimeterordnung",
+   "short": "Perimeterordnung",
+   "title": "Verordnung über die Erhebung von Perimeterbeiträgen an Strassen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.1421",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 27,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.1421",
+     "sha256": "eaec14b37b0e0223657d2efc93e089989a60f8d12e7e7de87878ddf1c3e64274"
+    }
+   ]
+  },
+  {
+   "slug": "50-2111-binnenschifffahrtsverordnung-kbsv",
+   "short": "Binnenschifffahrtsverordnung, KBSV",
+   "title": "Kantonale Vollziehungsverordnung zum Bundesgesetz über die Binnenschifffahrt",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.2111",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 35,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.2111",
+     "sha256": "1e3dd10cf45e0f2f3615350acd9270c1346081ce2c92aecfeac8955a54473740"
+    }
+   ]
+  },
+  {
+   "slug": "50-2115",
+   "short": "RB 50.2115",
+   "title": "Reglement über die Beschränkung der Schifffahrt und des Surfersports",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.2115",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 19,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.2115",
+     "sha256": "ef70df7475e4d20eab3e9fc506a559a18081c69d9568219895941ead0c33f10f"
+    }
+   ]
+  },
+  {
+   "slug": "50-2117-einwasserungsreglement-ewr",
+   "short": "Einwasserungsreglement, EWR",
+   "title": "Reglement über die Einwasserung von Schiffen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.2117",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.2117",
+     "sha256": "49a4213597dc8fb1619cc344f5e98b544e3b09a4e5477c78e0879159d8db6f5a"
+    }
+   ]
+  },
+  {
+   "slug": "50-3215-seilbahnreglement",
+   "short": "Seilbahnreglement",
+   "title": "Reglement über die Luftseilbahnen mit Personenbeförderung ohne Bundeskonzession und über die Skilifte",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.3215",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 32,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.3215",
+     "sha256": "ba785b071472210019da04eada8c304643bd1e028fd0fb49858853b2be5a0b7f"
+    }
+   ]
+  },
+  {
+   "slug": "50-3305",
+   "short": "RB 50.3305",
+   "title": "Reglement zum Bundesgesetz über die Anschlussgleise",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.3305",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.3305",
+     "sha256": "17143a2e98df406d98f68e2ffd9bed4826593605af8fe8891d1e2515df31eddf"
+    }
+   ]
+  },
+  {
+   "slug": "50-5115",
+   "short": "RB 50.5115",
+   "title": "Verordnung zum Verkehrsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/50.5115",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.5115/versions/972",
+     "sha256": "865a7ad823be5acea63196cbc562b0848a9b28f863174182771a5d3e50f1d855"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/50.5115",
+     "sha256": "6d80c7bbad436c77d8494eee4cf05d47bda8204640de0a6c9a4c3601f0fcbafb"
+    }
+   ]
+  },
+  {
+   "slug": "60-1111-klwv",
+   "short": "KLWV",
+   "title": "Kantonale Landwirtschaftsverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/60.1111",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/60.1111/versions/751",
+     "sha256": "39fa6e6d7ff245da89504fd35359b8c1e6e25a4079d236c4a4454f1ca7e305d3"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 43,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/60.1111",
+     "sha256": "f7fe6dd13fa27bebe50a96585665e1563718ca7e4766664f4bf9352488d3b46b"
+    }
+   ]
+  },
+  {
+   "slug": "60-1113-klwr",
+   "short": "KLWR",
+   "title": "Kantonales Landwirtschaftsreglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/60.1113",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 57,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/60.1113/versions/1071",
+     "sha256": "5bd707bd950a71a4205b40aca8d85609cdcfd63a5bde512e96b7fb52cc032103"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 59,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/60.1113",
+     "sha256": "e770625176daf6d31ac023fcc57526b9ce27ed48a42ee930d407a3a6dc0d2176"
+    }
+   ]
+  },
+  {
+   "slug": "60-2111",
+   "short": "RB 60.2111",
+   "title": "Veterinärverordnung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/60.2111",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 47,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/60.2111",
+     "sha256": "f57b6036dc23c74030b7ecfa12414cb8671409fee04466408b779886869751f2"
+    }
+   ]
+  },
+  {
+   "slug": "60-2113",
+   "short": "RB 60.2113",
+   "title": "Veterinärreglement",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/60.2113",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/60.2113",
+     "sha256": "80641d89d4e2b0b6261d23dbe0c51ed7ce0734fe7083a8b121aed1b225a68c9c"
+    }
+   ]
+  },
+  {
+   "slug": "60-3231-weinreglement",
+   "short": "Weinreglement",
+   "title": "Reglement über den Rebbau und die kontrollierte Ursprungsbezeichnung für Weine",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/60.3231",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/60.3231",
+     "sha256": "361e7ddfcb15f0178e2bcded6fe472b92e437d500c6cf75d080cea2975f5e8c8"
+    }
+   ]
+  },
+  {
+   "slug": "60-4111-lpv",
+   "short": "LPV",
+   "title": "Verordnung zum Bundesgesetz über die landwirtschaftliche Pacht",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/60.4111",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/60.4111",
+     "sha256": "9de0c5c3f22c6975120595d36a97358792d2ed7350a64be57bc7acdc550813df"
+    }
+   ]
+  },
+  {
+   "slug": "70-1103-bwv",
+   "short": "BWV",
+   "title": "Verordnung über die Berufs- und Weiterbildung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1103",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 46,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1103",
+     "sha256": "b514eb0b6ae7e64cc510529dc8cb92d2ede24e4be18ffaacefa0e646d0714618"
+    }
+   ]
+  },
+  {
+   "slug": "70-1105-bwr",
+   "short": "BWR",
+   "title": "Reglement über die Berufs- und Weiterbildung",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1105",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 27,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1105",
+     "sha256": "46c95bed7073222f01e50f1180ef9e49607c45d99f0be2255c6bab90a96c92ff"
+    }
+   ]
+  },
+  {
+   "slug": "70-1107-bfsr",
+   "short": "BFSR",
+   "title": "Reglement über die Rechte und Pflichten der Lernenden an der Berufsfachschule",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1107",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 17,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1107",
+     "sha256": "938b7c2f0a7efe3784defb9c95619b6c57196cd2cbe586efa69184e0a56800cd"
+    }
+   ]
+  },
+  {
+   "slug": "70-1125",
+   "short": "RB 70.1125",
+   "title": "Reglement über die Berufsmaturitätsschule",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1125",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1125/versions/831",
+     "sha256": "26ff06c7a48706b08b9649d25a4abdd1b6a6d2412b5a48abacf58e704c45b325"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 36,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1125",
+     "sha256": "4a73c283eb72fa802fe6c700e5a63e8eb54d1272aeda5dfbbd5257334555be9b"
+    }
+   ]
+  },
+  {
+   "slug": "70-1131",
+   "short": "RB 70.1131",
+   "title": "Reglement über die Berufsvorbereitungsschule",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1131",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 23,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1131/versions/830",
+     "sha256": "8d91715850d724306d16f102b384b765e0726f4a6901739b3a306e0a730bb5d7"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 22,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1131",
+     "sha256": "4235439e3c8b55c4b20fe9ed954fa66807b295fb2cf7d3dd72558ffb6eeb0baa"
+    }
+   ]
+  },
+  {
+   "slug": "70-1211",
+   "short": "RB 70.1211",
+   "title": "Reglement über das Messwesen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1211",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 13,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1211",
+     "sha256": "b25de4de03b9114e294258c3c6f040e29db19f7401cdded6a4372cea2f01a2bf"
+    }
+   ]
+  },
+  {
+   "slug": "70-1312-ukbv",
+   "short": "UKBV",
+   "title": "Verordnung über die Urner Kantonalbank",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1312",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 31,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1312",
+     "sha256": "9128cd8d26712ae150e0a05ca0c243785e494a703e014105e9829d7e24fc27e2"
+    }
+   ]
+  },
+  {
+   "slug": "70-1411",
+   "short": "RB 70.1411",
+   "title": "Verordnung über das Reklamewesen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1411",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1411",
+     "sha256": "e3e7faa253ae95183edea8649db1f1a2794c63e242be858b75c9de36ee939d36"
+    }
+   ]
+  },
+  {
+   "slug": "70-1615-covid-19-hartefallreglement",
+   "short": "COVID-19-Härtefallreglement",
+   "title": "Reglement über die Umsetzung von Härtefallmassnahmen für Unternehmen im Zusammenhang mit der COVID-19-Epidemie",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1615",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 15,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1615",
+     "sha256": "33fd9eb5684aee17e936d4e51e0ff7e9a537e90a376d0d359c8f766a7caae214"
+    }
+   ]
+  },
+  {
+   "slug": "70-1621",
+   "short": "RB 70.1621",
+   "title": "Verordnung über die steuerbegünstigten Arbeitsbeschaffungsreserven",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.1621",
+   "versions": [
+    {
+     "from": "1990-06-01",
+     "units": 11,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.1621",
+     "sha256": "aa355e82976adb2769023045c2c91009f5caf5e4f21bef41e50a8b6551702fa2"
+    }
+   ]
+  },
+  {
+   "slug": "70-2115-gwr",
+   "short": "GWR",
+   "title": "Reglement der Abgaben zum Gastwirtschaftsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2115",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 9,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.2115",
+     "sha256": "717811ee538540f377ada5afc67be4c68cbb00c692c43440c0ae1b9526621a72"
+    }
+   ]
+  },
+  {
+   "slug": "70-2117",
+   "short": "RB 70.2117",
+   "title": "Reglement über die befristete Senkung der Abgaben zum Gastwirtschaftsgesetz",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2117",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 4,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.2117",
+     "sha256": "19d32e1158be65730adb25e1a097379b462af170b3cf3bea2fe2fc09f87151c4"
+    }
+   ]
+  },
+  {
+   "slug": "70-2322-risikoaktivitatenreglement-riskr",
+   "short": "Risikoaktivitätenreglement, RiskR",
+   "title": "Einführungsreglement zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2322",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.2322",
+     "sha256": "a3c111b31c59c25978d5153dde156fa1f2824be914b5ec76e99626fc07342882"
+    }
+   ]
+  },
+  {
+   "slug": "70-2415-tourismusreglement-tourr",
+   "short": "Tourismusreglement, TourR",
+   "title": "Reglement über die Förderung des Tourismus",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2415",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.2415",
+     "sha256": "801f0371b9327b3f9c3cfeea9ce8b56d47c8394b3747e53b1fe458403a662a79"
+    }
+   ]
+  },
+  {
+   "slug": "70-2431-campingverordnung",
+   "short": "Campingverordnung",
+   "title": "Verordnung über Errichtung und Betrieb von öffentlichen Zeltplätzen",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.2431",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 18,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.2431",
+     "sha256": "311112fee6fe5921913b58bd739e13e58d2167c9cac6965c2405b62316fdc4fb"
+    }
+   ]
+  },
+  {
+   "slug": "70-3121",
+   "short": "RB 70.3121",
+   "title": "Reglement zum Bundesgesetz über das Gewerbe der Reisenden",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.3121",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 7,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.3121",
+     "sha256": "89e31087453cd82ab40c8cc0f2696352705f7ca3dc4d30144fc2dcd5f9ce641e"
+    }
+   ]
+  },
+  {
+   "slug": "70-3915-geldspielverordnung-gsv",
+   "short": "Geldspielverordnung, GSV",
+   "title": "Verordnung über Geldspiele",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.3915",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 21,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.3915",
+     "sha256": "c14fcfe0fef712c32c99a0dbd5f267c38577fb6a33e31d4ab74f094defe81c79"
+    }
+   ]
+  },
+  {
+   "slug": "70-3917-geldspielreglement-gsr",
+   "short": "Geldspielreglement, GSR",
+   "title": "Reglement über Geldspiele",
+   "url": "https://rechtsbuch.ur.ch/app/de/texts_of_law/70.3917",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 35,
+     "source_url": "https://rechtsbuch.ur.ch/api/de/texts_of_law/70.3917",
+     "sha256": "8d41c882bb6775e0109b76335a818162c1a76ed03eb45cb417d397497c725c92"
+    }
+   ]
+  }
+ ]
+}

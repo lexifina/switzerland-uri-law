@@ -1,0 +1,11 @@
+{
+  "path": "ch-ur",
+  "code": "CH-UR",
+  "name": "Uri",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-uri-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (317 acts, 346 versions) from the RB",
+  "language": "de",
+  "sources": 1
+}

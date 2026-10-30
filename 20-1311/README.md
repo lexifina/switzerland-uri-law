@@ -1,0 +1,56 @@
+# Reglement über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitnehmer
+
+RB 20.1311 · 1 versions, from 2022-01-01 (latest in force: 2022-01-01) · <https://rechtsbuch.ur.ch/app/de/texts_of_law/20.1311>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artikel 1 | [art-001.md](art-001.md) | 0 |  |
+| Artikel 2 | [art-002.md](art-002.md) | 0 |  |
+| Artikel 3 | [art-003.md](art-003.md) | 0 |  |
+| Artikel 4 | [art-004.md](art-004.md) | 0 |  |
+| Artikel 5 | [art-005.md](art-005.md) | 0 |  |
+| Artikel 6 | [art-006.md](art-006.md) | 0 |  |
+| Artikel 7 | [art-007.md](art-007.md) | 0 |  |
+| Artikel 8 | [art-008.md](art-008.md) | 0 |  |
+| Artikel 9 | [art-009.md](art-009.md) | 0 |  |
+| Artikel 10 | [art-010.md](art-010.md) | 0 |  |
+| Artikel 11 | [art-011.md](art-011.md) | 0 |  |
+| Artikel 12 | [art-012.md](art-012.md) | 0 |  |
+| Artikel 13 | [art-013.md](art-013.md) | 0 |  |
+| Artikel 14 | [art-014.md](art-014.md) | 0 |  |
+| Artikel 15 | [art-015.md](art-015.md) | 0 |  |
+| Artikel 16 | [art-016.md](art-016.md) | 0 |  |
+| Artikel 17 | [art-017.md](art-017.md) | 0 |  |
+| Artikel 18 | [art-018.md](art-018.md) | 0 |  |
+| Artikel 19 | [art-019.md](art-019.md) | 0 |  |
+| Artikel 20 | [art-020.md](art-020.md) | 0 |  |
+| Artikel 21 | [art-021.md](art-021.md) | 0 |  |
+| Artikel 22 | [art-022.md](art-022.md) | 0 |  |
+| Artikel 23 | [art-023.md](art-023.md) | 0 |  |
+| Artikel 24 | [art-024.md](art-024.md) | 0 |  |
+| Artikel 25 | [art-025.md](art-025.md) | 0 |  |
+| Artikel 26 | [art-026.md](art-026.md) | 0 |  |
+| Artikel 27 | [art-027.md](art-027.md) | 0 |  |
+| Artikel 28 | [art-028.md](art-028.md) | 0 |  |
+| Artikel 28a | [art-028a.md](art-028a.md) | 0 |  |
+| Artikel 28b | [art-028b.md](art-028b.md) | 0 |  |
+| Artikel 28c | [art-028c.md](art-028c.md) | 0 |  |
+| Artikel 28d | [art-028d.md](art-028d.md) | 0 |  |
+| Artikel 28e | [art-028e.md](art-028e.md) | 0 |  |
+| Artikel 28f | [art-028f.md](art-028f.md) | 0 |  |
+| Artikel 28g | [art-028g.md](art-028g.md) | 0 |  |
+| Artikel 28h | [art-028h.md](art-028h.md) | 0 |  |
+| Artikel 28i | [art-028i.md](art-028i.md) | 0 |  |
+| Artikel 28j | [art-028j.md](art-028j.md) | 0 |  |
+| Artikel 28k | [art-028k.md](art-028k.md) | 0 |  |
+| Artikel 28l | [art-028l.md](art-028l.md) | 0 |  |
+| Artikel 28m | [art-028m.md](art-028m.md) | 0 |  |
+| Artikel 28n | [art-028n.md](art-028n.md) | 0 |  |
+| Artikel 28o | [art-028o.md](art-028o.md) | 0 |  |
+| Artikel 28p | [art-028p.md](art-028p.md) | 0 |  |
+| Artikel 29 | [art-029.md](art-029.md) | 0 |  |
+| Artikel 30 | [art-030.md](art-030.md) | 0 |  |
+| Artikel 31 | [art-031.md](art-031.md) | 0 |  |
+| Artikel 32 | [art-032.md](art-032.md) | 0 |  |
+| Gliederung | [gliederung.md](gliederung.md) | 0 |  |
+| Titel und Ingress | [ingress.md](ingress.md) | 0 |  |
